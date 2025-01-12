@@ -1,0 +1,13 @@
+{
+  "ammo_type": "PBAOE",
+  "damage": 1500,
+  "splash_radius": 30,
+  "splash_damages_allies": false,
+  "sim_fire_effect": "/pa/units/land/ultra_boom/ultra_boom_ammo_explosion_ent.json",
+  "impact_decals": [
+    "/pa/effects/specs/scorch_b_01.json"
+  ],
+  "damage_volume": {
+    "initial_radius": 30.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "base_spec": "/pa/tools/base_laser_turret/base_laser_turret.json",
+  "ammo_id": "/pa/units/air/boss_icarus/boss_icarus_ammo.json",
+  "rate_of_fire": 1.7,
+  "ammo_source": "energy",
+  "ammo_capacity": 1500,
+  "ammo_demand": 170,
+  "ammo_per_shot": 300,
+  "idle_aim_delay": 1,
+  "max_range": 130,
+  "yaw_rate": 180,
+  "pitch_rate": 720,
+  "yaw_range": 180,
+  "pitch_range": 180,
+  "auto_attack": true,
+  "target_layers": [
+    "WL_Air",
+    "WL_AnyHorizontalGroundOrWaterSurface"
+  ],
+  "target_priorities": [
+    "Fabber",
+    "AirDefense",
+    "Mobile & (Land | Naval)"
+  ]
+}
