@@ -11,7 +11,7 @@
     "priority": 100,
     "enabled": true,
     "icon": "https://raw.githubusercontent.com/gb6162166/redline2/refs/heads/main/redline2icon.png",
-    "forum": "https://github.com/gb6162166/redline2",
+    "forum": "https://github.com/gb6162166/redline2/discussions/1",
     "fileSystem": false,
     "searchable": [
         "redline",
