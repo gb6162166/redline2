@@ -5,13 +5,13 @@
     "AT_Structure": 0.0
   },
   "flight_type": "Seeking",
-  "turn_rate": 225,
+  "turn_rate": 270,
   "damage": 300,
   "splash_damage": 50,
   "splash_radius": 30,
   "full_damage_splash_radius": 10,
-  "initial_velocity": 130.0,
-  "max_velocity": 130.0,
+  "initial_velocity": 150.0,
+  "max_velocity": 150.0,
   "lifetime": 2.1,
   "events": {
     "spawned": {
