@@ -4,7 +4,7 @@
   "si_name":"doxb",
   "description": "!LOC:Boss Laser Bot - Rng:95, Mov:18. Amphibious. Attacks surface targets when on land.",
   "max_health": 1000,
-  "build_metal_cost": 1775,
+  "build_metal_cost": 1350,
   "attachable": {
     "offsets": {
       "root": [
