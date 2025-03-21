@@ -4,7 +4,7 @@
   "si_name":"dox",
   "description": "!LOC:Upgraded Laser Bot - Rng:85, Mov:18. Amphibious. Attacks surface targets when on land.",
   "max_health": 100,
-  "build_metal_cost": 240,
+  "build_metal_cost": 200,
   "attachable": {
     "offsets": {
       "root": [
