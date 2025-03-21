@@ -3,8 +3,8 @@
   "display_name": "Boss Sparkie *",
   "si_name": "sparkb",
   "description": "!LOC:Boss Assault Bot - Rng:120, Mov:15. Attacks land targets.",
-  "max_health": 2100,
-  "build_metal_cost": 3350,
+  "max_health": 2000,
+  "build_metal_cost": 2500,
   "attachable": {
     "offsets": {
       "root": [
