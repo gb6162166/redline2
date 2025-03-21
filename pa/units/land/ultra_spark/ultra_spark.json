@@ -3,8 +3,8 @@
   "display_name": "Ultra Spark *",
   "si_name": "spark",
   "description": "!LOC:Upgraded Assault Bot - Rng:110, Mov:15. Attacks land targets.",
-  "max_health": 360,
-  "build_metal_cost": 650,
+  "max_health": 400,
+  "build_metal_cost": 575,
   "attachable": {
     "offsets": {
       "root": [
