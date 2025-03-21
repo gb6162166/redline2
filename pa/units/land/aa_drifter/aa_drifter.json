@@ -4,7 +4,7 @@
   "si_name": "driftera",
   "description": "!LOC:Anti-Air Hover Tank - Rng:120, Mov:15. Can cross water and lava. Attacks air targets. Equipped with advanced missiles - VTL:150/270/21. V=Velocity, T=Turn, L=Lifetime.",
   "max_health": 400,
-  "build_metal_cost": 925,
+  "build_metal_cost": 780,
   "armor_type": "AT_Hover",
   "attachable": {
     "offsets": {
