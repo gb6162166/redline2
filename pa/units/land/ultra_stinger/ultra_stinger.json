@@ -3,8 +3,8 @@
   "display_name": "Ultra Stinger *",
   "si_name": "stinger",
   "description": "!LOC:Upgraded Anti-Air Bot - Rng:100, Mov:15. Attacks air targets. Equipped with upgraded missiles - VTL:130/225/18. V=Velocity, T=Turn, L=Lifetime.",
-  "build_metal_cost": 450,
-  "max_health": 180,
+  "build_metal_cost": 435,
+  "max_health": 200,
   "attachable": {
     "offsets": {
       "root": [
