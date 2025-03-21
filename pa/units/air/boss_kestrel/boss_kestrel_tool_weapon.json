@@ -3,7 +3,7 @@
   "ammo_id": "/pa/units/air/boss_kestrel/boss_kestrel_ammo.json",
   "rate_of_fire": 4.0,
   "idle_aim_delay": 0.25,
-  "max_range": 105,
+  "max_range": 100,
   "yaw_rate": 360,
   "pitch_rate": 360,
   "yaw_range": 360,
