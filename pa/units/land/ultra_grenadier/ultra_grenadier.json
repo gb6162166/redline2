@@ -4,7 +4,7 @@
   "si_name":"grenadier",
   "description": "!LOC:Upgraded Artillery Bot - Rng:140, Mov:12. Can fire over walls. Attacks land and sea targets.",
   "max_health": 260,
-  "build_metal_cost": 330,
+  "build_metal_cost": 280,
   "attachable": {
     "offsets": {
       "root": [
