@@ -3,8 +3,8 @@
   "display_name": "Ultra Ant *",
   "si_name": "ant",
   "description": "!LOC:Upgraded Laser Tank - Rng:110, Mov:12. Attacks land and sea targets.",
-  "max_health": 450,
-  "build_metal_cost": 600,
+  "max_health": 500,
+  "build_metal_cost": 580,
   "attachable": {
     "offsets": {
       "root": [
