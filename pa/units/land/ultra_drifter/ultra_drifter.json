@@ -4,7 +4,7 @@
   "si_name": "drifter",
   "description": "!LOC:Upgraded Hover Tank - Rng:130, Mov:15. Can cross water and lava. Attacks land and sea targets.",
   "max_health": 800,
-  "build_metal_cost": 1000,
+  "build_metal_cost": 850,
   "armor_type": "AT_Hover",
   "attachable": {
     "offsets": {
