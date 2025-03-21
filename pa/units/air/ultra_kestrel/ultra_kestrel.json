@@ -4,7 +4,7 @@
   "si_name": "kestrel",
   "description": "!LOC:Upgraded Gunship - Rng:85, Mov:70. Attacks land and sea targets.",
   "max_health": 1200,
-  "build_metal_cost": 3100,
+  "build_metal_cost": 2600,
   "spawn_layers": "WL_Air",
   "unit_types": [
     "UNITTYPE_Custom58",
