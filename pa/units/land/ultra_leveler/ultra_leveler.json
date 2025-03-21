@@ -3,8 +3,8 @@
   "display_name": "Demolisher *",
   "si_name": "leveler",
   "description": "!LOC:Upgraded Leveler - Rng:120, Mov:9. Long range, massive damage. Attacks land and sea targets.",
-  "build_metal_cost": 2400,
-  "max_health": 1600,
+  "build_metal_cost": 2000,
+  "max_health": 1500,
   "attachable": {
     "offsets": {
       "root": [
