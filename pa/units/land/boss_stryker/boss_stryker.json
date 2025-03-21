@@ -4,7 +4,7 @@
   "si_name": "strykerb",
   "description": "!LOC:Boss Laser Vehicle - Rng:100, Mov:18. Attacks surface targets.",
   "max_health": 1500,
-  "build_metal_cost": 3000,
+  "build_metal_cost": 2300,
   "attachable": {
     "offsets": {
       "root": [
