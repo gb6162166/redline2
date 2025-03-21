@@ -3,8 +3,8 @@
   "display_name": "Ultra Spinner *",
   "si_name": "spinner",
   "description": "!LOC:Upgraded Anti-Air Tank - Rng:130, Mov:12. Attacks air targets. Equipped with upgraded missiles - VTL:130/225/18. V=Velocity, T=Turn, L=Lifetime.",
-  "max_health": 650,
-  "build_metal_cost": 950,
+  "max_health": 480,
+  "build_metal_cost": 800,
   "attachable": {
     "offsets": {
       "root": [
