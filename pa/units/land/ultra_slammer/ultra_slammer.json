@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Big Red *",
   "si_name": "slammer",
-  "description": "!LOC:Upgraded Slammer - Rng:120, Mov:15. Long range, heavy damage guns and torpedoes. Durable. Amphibious. Attacks land and sea.",
-  "max_health": 900,
-  "build_metal_cost": 1700,
+  "description": "!LOC:Upgraded Slammer - Rng:130, Mov:15. Long range, heavy damage guns and torpedoes. Durable. Amphibious. Attacks land and sea.",
+  "max_health": 1000,
+  "build_metal_cost": 1500,
   "attachable": {
     "offsets": {
       "root": [
