@@ -4,7 +4,7 @@
   "si_name": "icarusb",
   "description": "!LOC:Boss Solar Drone - Rng:130, Mov:50. Produces 170 energy when idle. Attacks land, air, and sea targets.",
   "max_health": 2000,
-  "build_metal_cost": 7200,
+  "build_metal_cost": 6000,
   "usable": true,
   "attachable": {
     "offsets": {
