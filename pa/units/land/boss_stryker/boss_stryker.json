@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Boss Stryker *",
   "si_name": "strykerb",
-  "description": "!LOC:Boss Laser Vehicle - Rng:100, Mov:18. Attacks surface targets.",
+  "description": "!LOC:Boss Laser Vehicle - Rng:100, Mov:18. Uses advanced double lasers. L:2x60*3.0",
   "max_health": 1500,
-  "build_metal_cost": 2300,
+  "build_metal_cost": 1950,
   "attachable": {
     "offsets": {
       "root": [
