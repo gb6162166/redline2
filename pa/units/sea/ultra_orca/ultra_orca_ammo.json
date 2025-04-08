@@ -1,0 +1,25 @@
+{
+  "base_spec": "/pa/ammo/base_shell/base_shell.json",
+  "damage": 150,
+  "splash_damage": 0,
+  "splash_radius": 0,
+  "initial_velocity": 110.0,
+  "max_velocity": 110.0,
+  "lifetime": 3,
+  "fx_trail": {
+    "filename": "/pa/units/sea/naval_artillery/adv_purplepuff_ammo_trail.pfx"
+  },
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/missile_destroyer",
+      "effect_spec": "/pa/units/sea/naval_artillery/adv_purplepuff_ammo_hit.pfx",
+	  "effect_scale": 2.0	  
+    }
+  },
+  "physics": {
+    "radius": 1,
+    "gravity_scalar": 7,
+    "add_to_spatial_db": false,
+    "allow_underground": true
+  }
+}
