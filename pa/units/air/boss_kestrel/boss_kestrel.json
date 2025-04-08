@@ -4,7 +4,7 @@
   "si_name": "kestrelb",
   "description": "!LOC:Boss Gunship - Rng:100, Mov:80. Attacks land and sea targets.",
   "max_health": 3000,
-  "build_metal_cost": 7500,
+  "build_metal_cost": 6400,
   "spawn_layers": "WL_Air",
   "unit_types": [
     "UNITTYPE_Custom58",
