@@ -2,8 +2,8 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Goldhawk *",
   "si_name": "bluehawk",
-  "description": "!LOC:Upgraded Bluehawk - Rng:200/180, Mov:12. Extra long range, heavy damage homing missiles. Durable. Equipped with anti-drop defence. Attacks land, sea, orbital.",
-  "build_metal_cost": 1650,
+  "description": "!LOC:Upgraded Bluehawk - Rng:200, Mov:12. Uses extra-long range, heavy damage, tactical missiles. Provides anti-drop defence/180. M:1000*0.3",
+  "build_metal_cost": 1500,
   "max_health": 800,
   "attachable": {
     "offsets": {
