@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Slammer *",
-  "description": "!LOC:Advanced Laser Bot - Rng:110, Mov:15. Heavy damage guns and torpedoes. Amphibious. Attacks land and sea.",
+  "description": "!LOC:Advanced Laser Bot - Rng:110, Mov:15. Heavy damage lasers and torpedoes. Moves and attacks on land and underwater. L:80*3.0, T:250*0.75",
   "max_health": 280,
   "build_metal_cost": 650,
   "attachable": {
