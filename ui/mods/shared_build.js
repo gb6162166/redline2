@@ -32,7 +32,14 @@ var newBuild = {
 	"/pa/units/air/ultra_icarus/ultra_icarus.json": ["air", 3105, { row: 0, column: 5 }],		
 	
 	"/pa/units/air/boss_kestrel/boss_kestrel.json": ["boss air", 3201, { row: 0, column: 0 }],
-	"/pa/units/air/boss_icarus/boss_icarus.json": ["boss air", 3202, { row: 1, column: 0 }]
+	"/pa/units/air/boss_icarus/boss_icarus.json": ["boss air", 3202, { row: 1, column: 0 }],
+	
+	
+	"/pa/units/sea/swordfish/swordfish.json": ["sea", 4001, { row: 0, column: 1 }],
+	"/pa/units/sea/ultra_orca/ultra_orca.json": ["sea", 4002, { row: 0, column: 2 }],
+	"/pa/units/sea/ultra_piranha/ultra_piranha.json": ["sea", 4004, { row: 0, column: 4 }],
+	
+	"/pa/units/sea/megalodon/megalodon.json": ["sea", 4105, { row: 1, column: 5 }]
 	
 
 

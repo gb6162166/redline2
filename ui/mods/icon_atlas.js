@@ -22,7 +22,11 @@ var moreIcons = [
 	"kestrelb",
 	"icarus",
 	"icarusb",
-	"phoenix"
+	"phoenix",
+	"piranha",
+	"orca",
+	"swordfish",
+	"leviathan"
 	
 ];
 model.strategicIcons(model.strategicIcons().concat(moreIcons));
