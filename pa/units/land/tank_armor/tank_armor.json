@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Inferno *",
-  "description": "!LOC:Flame Tank - Rng:20, Mov:11. Short range, heavy armor, fast damage.",
+  "description": "!LOC:Flame Tank - Rng:20, Mov:11. Short range, heavy armor, fast damage. F:100*3.0",
   "max_health": 800,
   "build_metal_cost": 540,
   "attachable": {
