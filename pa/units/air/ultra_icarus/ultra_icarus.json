@@ -3,8 +3,8 @@
   "display_name": "Ultra Icarus *",
   "si_name": "icarus",
   "description": "!LOC:Upgraded Solar Drone - Rng:100, Mov:50. Produces 140 energy when idle. Attacks land, air, and sea targets.",
-  "max_health": 300,
-  "build_metal_cost": 1100,
+  "max_health": 250,
+  "build_metal_cost": 850,
   "usable": true,
   "attachable": {
     "offsets": {
