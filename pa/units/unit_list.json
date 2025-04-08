@@ -199,6 +199,12 @@
 "/pa/units/sea/nuclear_sub/nuclear_sub.json",
 "/pa/units/sea/sea_mine/sea_mine.json",
 "/pa/units/sea/sea_scout/sea_scout.json",
+
+"/pa/units/sea/ultra_piranha/ultra_piranha.json",
+"/pa/units/sea/swordfish/swordfish.json",
+"/pa/units/sea/ultra_orca/ultra_orca.json",
+"/pa/units/sea/megalodon/megalodon.json",
+
 "/pa/units/sea/torpedo_launcher/torpedo_launcher.json",
 "/pa/units/sea/torpedo_launcher_adv/torpedo_launcher_adv.json",
 "/pa/units/air/bomber_heavy/bomber_heavy.json",
