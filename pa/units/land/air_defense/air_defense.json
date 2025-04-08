@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "display_name": "Galate *",
-  "description": "!LOC:Anti-Air Tower - Rng:150. Attacks air targets. Equipped with advanced missiles - VTL:150/270/21. V=Velocity, T=Turn, L=Lifetime.",
+  "description": "!LOC:Anti-Air Tower - Rng:150. Attacks air targets. Equipped with advanced missiles - VTL/150/270/21.",
   "max_health": 1000,
   "build_metal_cost": 300,
   "atrophy_rate": 5,
