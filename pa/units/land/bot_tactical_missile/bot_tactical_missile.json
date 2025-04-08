@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Bluehawk *",
-  "description": "!LOC:Tactical Missile - Rng:180/160, Mov:12. Long range, heavy damage homing missiles. Equipped with anti-drop defence. Attacks land, sea, orbital.",
+  "description": "!LOC:Tactical Missile - Rng:180, Mov:12. Long range, heavy damage, tactical missiles. Provides anti-drop defence/160. Attacks land, sea, orbital.",
   "build_metal_cost": 600,
   "max_health": 300,
   "attachable": {
