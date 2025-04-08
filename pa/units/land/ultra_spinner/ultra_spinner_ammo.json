@@ -10,7 +10,7 @@
   "turn_rate": 225.0,
   "lifetime": 1.8,
   "fx_trail": {
-    "filename": "/pa/units/land/ultra_spinner/ultra_spinner_ammo_trail.pfx",
+    "filename": "/pa/ammo/ground_aa/upgraded_aa_ammo_trail.pfx",
     "offset": [
       0.0,
       1.3,

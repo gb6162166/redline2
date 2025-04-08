@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Spinner *",
   "si_name": "spinner",
-  "description": "!LOC:Upgraded Anti-Air Tank - Rng:130, Mov:12. Attacks air targets. Equipped with upgraded missiles - VTL:130/225/18. V=Velocity, T=Turn, L=Lifetime.",
-  "max_health": 480,
-  "build_metal_cost": 800,
+  "description": "!LOC:Upgraded Anti-Air Tank - Rng:120, Mov:12. Uses upgraded anti-air missiles VTL/130/225/18. M:100*2.5",
+  "max_health": 400,
+  "build_metal_cost": 740,
   "attachable": {
     "offsets": {
       "root": [
@@ -52,7 +52,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 130
+          "radius": 120
         }
       ]
     }

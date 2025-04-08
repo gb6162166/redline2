@@ -1,8 +1,8 @@
 {
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "ammo_id": "/pa/units/land/ultra_spinner/ultra_spinner_ammo.json",
-  "rate_of_fire": 2.0,
-  "max_range": 130,
+  "rate_of_fire": 2.5,
+  "max_range": 120,
   "yaw_rate": 3600,
   "pitch_rate": 3600,
   "yaw_range": 180,
