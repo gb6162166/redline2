@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "AA Drifter *",
   "si_name": "driftera",
-  "description": "!LOC:Anti-Air Hover Tank - Rng:120, Mov:15. Can cross water and lava. Attacks air targets. Equipped with advanced missiles - VTL:150/270/21. V=Velocity, T=Turn, L=Lifetime.",
-  "max_health": 400,
-  "build_metal_cost": 780,
+  "description": "!LOC:Anti-Air Hover Tank - Rng:120, Mov:15. Uses long range, advanced AA missiles. Can cross water and lava. M:100*2.0, VTL/150/270/21.",
+  "max_health": 420,
+  "build_metal_cost": 715,
   "armor_type": "AT_Hover",
   "attachable": {
     "offsets": {
