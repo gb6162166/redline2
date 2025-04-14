@@ -1,0 +1,28 @@
+{
+  "base_spec": "/pa/units/commanders/base_commander/base_commander_ammo.json",
+  "flight_type": "Seeking",
+  "turn_rate": 60,
+  "damage": 200,
+  "splash_damage": 40,
+  "splash_radius": 10,
+  "full_damage_splash_radius": 5,
+  "initial_velocity": 130.0,
+  "max_velocity": 130.0,
+  "lifetime": 1.5,
+  "events": {
+    "spawned": {
+      "audio_cue": "/SE/Weapons/commander/Commander_gun_fire"
+    },
+    "died": {
+      "effect_spec": "/pa/units/commanders/base_commander/base_commander_bullet_hit.pfx"
+    }
+  },
+  "fx_trail": {
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "filename": "/pa/units/commanders/base_commander/base_commander_ammo_bullet_trail.pfx"
+  }
+}
