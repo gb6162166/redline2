@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "display_name": "Flak Cannon *",
-  "description": "!LOC:Advanced Anti-Air - Rng:120. Heavy damage to air targets.",
+  "description": "!LOC:Advanced Anti-Air - Rng:160. Long range, heavy damage, direct fire anti-air. AA:~800*1.0",
   "max_health": 2000,
-  "build_metal_cost": 1200,
+  "build_metal_cost": 1500,
   "atrophy_rate": 26.66667,
   "atrophy_cool_down": 15,
   "area_build_separation": 72,
@@ -31,7 +31,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 120
+          "radius": 165
         }
       ]
     }
