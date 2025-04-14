@@ -1,0 +1,26 @@
+{
+  "base_spec": "/pa/ammo/base_shell/base_shell.json",
+  "damage": 50,
+  "splash_damage": 0,
+  "splash_radius": 0,
+  "model": null,
+  "initial_velocity": 90.0,
+  "max_velocity": 90.0,
+  "lifetime": 2,
+  "fx_trail": {
+    "filename": "/pa/units/sea/naval_artillery/basic_artillery_trail.pfx"
+  },
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/missile_frigate",
+      "effect_spec": "/pa/units/sea/naval_artillery/basic_artillery_hit.pfx",
+      "effect_scale": 2.5	  
+    }
+  },
+  "physics": {
+    "radius": 1,
+    "gravity_scalar": 7,
+    "add_to_spatial_db": false,
+    "allow_underground": true
+  }
+}
