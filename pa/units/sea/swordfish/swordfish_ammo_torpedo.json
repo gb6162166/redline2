@@ -1,0 +1,25 @@
+{
+  "base_spec": "/pa/ammo/torpedo/torpedo.json",
+  "damage": 100,
+  "initial_velocity": 5.0,
+  "max_velocity": 30.0,
+  "lifetime": 5,
+  "turn_rate": 120,
+  "model": {
+    "filename": "/pa/units/sea/torpedo_small/torpedo_small.papa"
+  },
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/torpedo",
+      "effect_spec": "/pa/units/sea/torpedo/torpedo_hit_blue_big.pfx"
+    }
+  },    
+  "fx_trail": {
+    "filename": "/pa/units/sea/torpedo/torpedo_trail_blue.pfx",
+    "offset": [
+      0.0,
+      0.8,
+      0.0
+    ]
+  }
+}
