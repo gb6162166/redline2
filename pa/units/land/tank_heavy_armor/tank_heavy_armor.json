@@ -1,6 +1,6 @@
 {
   "display_name": "Vanguard *",
-  "description": "!LOC:Advanced Heavy Assault Tank - Rng:60/250, Mov:9. Short range, massive damage. Heavily armored vehicle with mobile radar.",
+  "description": "!LOC:Advanced Heavy Assault Tank - Rng:60, Mov:9. Short range, massive damage, heavy armor. Provides radar.",
   "TEMP_texelinfo": 9.04444,
   "attachable": {
     "offsets": {
@@ -16,8 +16,8 @@
       ]
     }
   },
-  "build_metal_cost": 2000,
-  "max_health": 3000,
+  "build_metal_cost": 2450,
+  "max_health": 4000,
   "audio": {
     "loops": {
       "move": {
