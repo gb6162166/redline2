@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Inferno *",
   "si_name": "inferno",
-  "description": "!LOC:Upgraded Flame Tank - Rng:20, Mov:11. Short range, heavy armor, fast damage. F:150*3.0",
-  "max_health": 1500,
-  "build_metal_cost": 975,
+  "description": "!LOC:Upgraded Flame Tank - Rng:20, Mov:12. Short range, heavy armor, fast damage. F:150*3.0",
+  "max_health": 1700,
+  "build_metal_cost": 1170,
   "attachable": {
     "offsets": {
       "root": [
@@ -37,7 +37,7 @@
     "type": "land-small",
     "acceleration": 100,
     "brake": 100,
-    "move_speed": 11,
+    "move_speed": 12,
     "turn_speed": 180,
     "group_preference": "front"
   },
