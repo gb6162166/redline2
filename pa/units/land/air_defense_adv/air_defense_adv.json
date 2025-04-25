@@ -31,7 +31,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 165
+          "radius": 160
         }
       ]
     }
