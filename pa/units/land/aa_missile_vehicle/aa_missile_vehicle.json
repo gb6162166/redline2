@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Spinner *",
-  "description": "!LOC:Anti-Air Tank - Rng:120, Mov:12. Uses basic anti-air missiles VTL/110/180/15. AA:50*2.0",
+  "description": "!LOC:Anti-Air Tank - Rng:120, Mov:12. Uses basic anti-air missiles. AA:50*2.0",
   "max_health": 320,
   "build_metal_cost": 280,
   "attachable": {
