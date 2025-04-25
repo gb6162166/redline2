@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Boss Doxer *",
   "si_name":"doxb",
-  "description": "!LOC:Boss Laser Bot - Rng:95, Mov:18. Uses long range, superior, double lasers. Moves on land and underwater, attacks surface targets when on land. L:2x80*1.0",
+  "description": "!LOC:Boss Laser Bot - Rng:95, Mov:18. Uses advanced double lasers. Moves on land and underwater, attacks surface targets when on land. L:2x80*1.0",
   "max_health": 1000,
   "build_metal_cost": 1150,
   "attachable": {
