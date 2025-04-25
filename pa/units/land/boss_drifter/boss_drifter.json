@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Boss Drifter *",
   "si_name": "drifterb",
-  "description": "!LOC:Boss Hover Tank - Rng:130/200, Mov:15. Uses superb, long range, heavy damage laser turret. Provides radar. Can cross water and lava. L:150*4.0",
+  "description": "!LOC:Boss Hover Tank - Rng:130, Mov:15. Uses superb, long range, heavy damage laser turret. Provides radar. Can cross water and lava. L:150*4.0",
   "max_health": 3000,
   "build_metal_cost": 3550,
   "armor_type": "AT_Hover",
