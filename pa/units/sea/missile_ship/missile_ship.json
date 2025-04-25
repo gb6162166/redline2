@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
   "display_name": "Stingray *",
-  "description": "!LOC:Missile Ship - Rng:240/180. Uses ultra long range, heavy damage, tactical missiles and long range, rapid fire, superb AA missiles VTL/170/315/24. Provides radar and anti-drop defence. M:1000*0.25, AA:300*4.0",
+  "description": "!LOC:Missile Ship - Rng:240/180. Uses ultra long range, heavy damage, tactical missiles and long range, rapid fire, superb AA missiles. Provides radar and anti-drop defence. M:1000*0.5, AA:300*3.5",
   "max_health": 3000,
   "build_metal_cost": 6650,
   "spawn_layers": "WL_WaterSurface",
