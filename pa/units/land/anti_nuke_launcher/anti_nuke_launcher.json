@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "unit_name": "Anti-Nuke Launcher",
   "display_name": "!LOC:Anti-Nuke Launcher *",
-  "description": "!LOC:Anti-Nuke - Rng:300. Builds intercepting anti-nuclear missiles and provides radar. Can stage up to 3 missiles.",
+  "description": "!LOC:Anti-Nuke - Rng:300. Builds intercepting anti-nuclear missiles. Provides radar. Stages up to 3 missiles.",
   "max_health": 5000,
   "build_metal_cost": 15000,
   "atrophy_rate": 200,
