@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "unit_name": "Bot Factory",
   "display_name": "!LOC:Bot Factory *",
-  "description": "!LOC:Basic Manufacturing - Builds basic bots, F17/E650/R2. F=Fabrication Rate,E=Energy Requirement,R=Reset Delay.",
+  "description": "!LOC:Basic Manufacturing - Builds basic bots.",
   "max_health": 6000,
   "build_metal_cost": 600,
   "atrophy_rate": 10.0,
