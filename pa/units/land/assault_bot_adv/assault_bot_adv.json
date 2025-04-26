@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Slammer *",
-  "description": "!LOC:Advanced Laser Bot - Rng:110/160, Mov:15. Uses heavy damage lasers, and upgraded torpedoes. Moves and attacks on land and underwater. L:90*3.0, T:150*0.5",
-  "max_health": 300,
-  "build_metal_cost": 720,
+  "description": "!LOC:Advanced Laser Bot - Rng:110/160, Mov:15. Uses heavy damage lasers, and upgraded torpedoes. L:80*3.0, T:150*0.5",
+  "max_health": 280,
+  "build_metal_cost": 650,
   "attachable": {
     "offsets": {
       "root": [
