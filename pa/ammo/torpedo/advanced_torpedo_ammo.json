@@ -3,7 +3,7 @@
   "damage": 300,
   "initial_velocity": 50.0,
   "max_velocity": 50.0,
-  "lifetime": 5,
+  "lifetime": 7.0,
   "turn_rate": 160,
   "cruise_height": 2, 
   "model": {
