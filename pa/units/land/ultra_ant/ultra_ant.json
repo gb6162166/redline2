@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Ant *",
   "si_name": "ant",
-  "description": "!LOC:Upgraded Laser Tank - Rng:110, Mov:12. Uses single laser turret. L:200*0.6",
+  "description": "!LOC:Upgraded Laser Tank - Rng:110, Mov:12. Uses upgraded laser turret. L:200*0.6",
   "max_health": 500,
   "build_metal_cost": 520,
   "attachable": {
