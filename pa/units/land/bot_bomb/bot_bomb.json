@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "!LOC:Boom *",
-  "description": "!LOC:Bomb Bot - Rng:10, Mov:33. Self-Destructs when in range. High speed, medium damage.",
+  "description": "!LOC:Bomb Bot - Rng:10, Mov:33. Uses self-destruct bomb. B:400*1.0",
   "max_health": 20,
   "build_metal_cost": 100,
   "wreckage_health_frac": 0.0,
