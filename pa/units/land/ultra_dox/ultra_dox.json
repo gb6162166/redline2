@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Ultra Dox *",
   "si_name":"dox",
-  "description": "!LOC:Upgraded Laser Bot - Rng:85, Mov:18. Uses double lasers with improved range and damage. Moves on land and underwater, attacks surface targets when on land. L:2x32*1.0",
+  "description": "!LOC:Upgraded Laser Bot - Rng:85, Mov:18. Uses double lasers with improved range and damage. L:2x32*1.0",
   "max_health": 100,
   "build_metal_cost": 180,
   "attachable": {
