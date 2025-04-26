@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Dox *",
-  "description": "!LOC:Laser Bot - Rng:75, Mov:18. Uses basic double lasers. Moves on land and underwater, attacks surface targets when on land. L:2x14*1.0",
+  "description": "!LOC:Laser Bot - Rng:75, Mov:18. Uses basic double lasers. L:2x14*1.0",
   "max_health": 50,
   "build_metal_cost": 80,
   "attachable": {
