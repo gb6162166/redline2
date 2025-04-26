@@ -2,8 +2,8 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Stinger *",
   "si_name": "stinger",
-  "description": "!LOC:Upgraded Anti-Air Bot - Rng:140, Mov:15. Uses upgraded anti-air missiles VTL/130/225/18. AA:100*2.5",
-  "build_metal_cost": 650,
+  "description": "!LOC:Upgraded Anti-Air Bot - Rng:140, Mov:15. Uses upgraded anti-air missiles. AA:100*2.5",
+  "build_metal_cost": 730,
   "max_health": 200,
   "attachable": {
     "offsets": {
