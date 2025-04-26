@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Gil-E *",
-  "description": "!LOC:Sniper Bot - Rng:175/140, Mov:12. Long range. High damage. Slow rate of fire. Equipped with anti-missile defence. Attacks land, air and sea targets.",
+  "description": "!LOC:Sniper Bot - Rng:175, Mov:12. Uses long range, direct fire, laser beam. Provides anti-missile defence. L:350*0.25",
   "max_health": 230,
   "build_metal_cost": 650,
   "attachable": {
@@ -27,6 +27,7 @@
     "UNITTYPE_Artillery",
     "UNITTYPE_Advanced",
     "UNITTYPE_FactoryBuild",
+	"UNITTYPE_CannonBuildable",
     "UNITTYPE_TacticalDefense"
   ],
   "guard_layer": "WL_AnySurface",
@@ -51,7 +52,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 180
+          "radius": 175
         }
       ]
     }
