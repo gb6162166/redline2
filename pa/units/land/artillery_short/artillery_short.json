@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "display_name": "Pelter *",
-  "description": "!LOC:Artillery Tower - Rng:240. Uses advanced artillery. A:300*0.15",
+  "description": "!LOC:Artillery Tower - Rng:240. Uses long range, advanced artillery. A:300*0.15",
   "max_health": 1000,
   "build_metal_cost": 500,
   "atrophy_rate": 25,
