@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Ultra Spark *",
   "si_name": "spark",
-  "description": "!LOC:Upgraded Assault Bot - Rng:110, Mov:15. Armored laser bot with increased range. Las:80*1.5",
+  "description": "!LOC:Upgraded Assault Bot - Rng:110, Mov:15. Upgraded laser bot with improved armor, range, damage. Uses upgraded single laser. L:80*1.5",
   "max_health": 400,
   "build_metal_cost": 520,
   "attachable": {
