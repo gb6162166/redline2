@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Big Red *",
   "si_name": "slammer",
-  "description": "!LOC:Upgraded Slammer - Rng:120/200, Mov:15. Uses long range, heavy damage lasers, and advanced torpedoes. Moves and attacks on land and underwater. L:100*3.0, T:200*1.0",
+  "description": "!LOC:Upgraded Slammer - Rng:120/200, Mov:15. Uses long range, heavy damage lasers, and advanced torpedoes. L:100*3.0, T:300*1.0",
   "max_health": 1000,
   "build_metal_cost": 1350,
   "attachable": {
