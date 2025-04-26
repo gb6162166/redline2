@@ -1,6 +1,10 @@
       _.defer(function () {
         model.localChatMessage(
+          loc("!LOC:#gb6 Definitive"),
+          loc("!LOC:New maps added. Available in community mods.")
+        );
+        model.localChatMessage(
           loc("!LOC:Red Line 2"),
-          loc("!LOC:Units have been added or modified. Red Line 2 is available in community mods. Review unit spec at https://github.com/gb6162166/redline2")
+          loc("!LOC:Units added or modified. Available in community mods.")
         );
       })
