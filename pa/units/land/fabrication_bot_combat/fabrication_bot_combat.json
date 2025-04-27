@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Stitch *",
-  "description": "!LOC:Combat Fabricator - Rng:60, Mov:12. Repairs damaged units. Can build and detect mines. Can build teleporters. Can't help build other structures.",
-  "max_health": 40,
-  "build_metal_cost": 200,
+  "description": "!LOC:Combat Fabricator - Rng:60, Mov:12. Repairs units, builds and detects mines, and more. R:30*1.0",
+  "max_health": 50,
+  "build_metal_cost": 240,
   "attachable": {
     "offsets": {
       "root": [
