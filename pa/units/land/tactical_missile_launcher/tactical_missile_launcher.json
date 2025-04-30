@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "display_name": "Catapult *",
-  "description": "!LOC:Tactical Missile Launcher - Rng:270/230. Extra long range and heavy damage. Equipped with anti-drop defence. Attacks land, sea, and orbital targets.",
+  "description": "!LOC:Tactical Missile Launcher - Rng:270. Extra long range, heavy damage, tactical missiles. Provides anti-drop defence. M:1000*0.4",
   "max_health": 1500,
   "build_metal_cost": 1900,
   "atrophy_rate": 30.0,
