@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Atlas *",
-  "description": "!LOC:Seismic Titan - Devastating damage to everything nearby. Amphibious. Attacks land, sea, and undersea targets.",
+  "description": "!LOC:Seismic Titan - Rng:135, Mov:13. Devastating damage to everything nearby. Amphibious. Attacks land, sea, and undersea targets.",
   "max_health": 60000,
   "build_metal_cost": 40000,
   "atrophy_rate": 200.0,
