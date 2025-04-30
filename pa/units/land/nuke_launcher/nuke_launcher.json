@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "unit_name": "Nuclear Missile Launcher",
   "display_name": "!LOC:Nuclear Missile Launcher *",
-  "description": "!LOC:Nuclear Missile Launcher - Builds interplanetary long range nuclear missile with large area damage.",
+  "description": "!LOC:Nuclear Missile Launcher - Builds interplanetary nuclear missile for unlimited range, wide area, total destruction.",
   "max_health": 5000,
   "build_metal_cost": 15000,
   "atrophy_rate": 240.0,

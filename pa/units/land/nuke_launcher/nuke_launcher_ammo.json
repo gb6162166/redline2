@@ -1,6 +1,6 @@
 {
   "display_name": "!LOC:LR-96 Pacifier Nuclear Missile",
-  "description": "!LOC:Nuclear missile - Long range interplanetary, large area damage, projectile",
+  "description": "!LOC:Nuclear missile - Long range interplanetary, large area damage, projectile. Consumes 6000 energay and 90 metal when building.",
   "si_name": "nuke_launcher_ammo",
   "has_notifications": true,
   "ammo_type": "Projectile",
