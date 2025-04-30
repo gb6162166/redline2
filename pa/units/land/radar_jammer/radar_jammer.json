@@ -3,7 +3,7 @@
   "si_name": "radar_jammer",
   "unit_name": "Radar Jamming Station",
   "display_name": "!LOC:Radar Jamming Station *",
-  "description": "!LOC:Radar Jammer - Rng:250. Hides allied units from enemy radar in a radius around itself. Requires 1000 energy.",
+  "description": "!LOC:Radar Jammer - Rng:250. Hides allied units from enemy radar in a radius around itself. Consumes 1000 energy.",
   "max_health": 5000,
   "build_metal_cost": 1500,
   "consumption": {
