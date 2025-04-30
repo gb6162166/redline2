@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Stryker *",
   "si_name": "stryker",
-  "description": "!LOC:Laser Vehicle - Rng:90, Mov:15. Attacks surface targets.",
+  "description": "!LOC:Laser Vehicle - Rng:90, Mov:15. Uses basic double lasers. L:2x10*2.0",
   "max_health": 160,
   "build_metal_cost": 180,
   "attachable": {
