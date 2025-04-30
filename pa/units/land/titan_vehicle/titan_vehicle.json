@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ares *",
-  "description": "!LOC:Rolling Fortress - Mov:10, Rng:400/220. Ultra long range, heavy damage. Attacks land and sea targets. Hovers.",
+  "description": "!LOC:Rolling Fortress - Rng:400/220, Mov:10. Ultra long range, heavy damage. Attacks land and sea targets. Hovers.",
   "max_health": 50000,
   "build_metal_cost": 35000,
   "armor_type": "AT_Hover",
