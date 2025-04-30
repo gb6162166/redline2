@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Demolisher *",
   "si_name": "leveler",
-  "description": "!LOC:Upgraded Leveler - Rng:120, Mov:9. Uses long range, heavy damage, double turret. T:2x275*1.0",
+  "description": "!LOC:Upgraded Leveler - Rng:120, Mov:9. Uses very heavy damage, double turret. T:2x275*1.0",
   "build_metal_cost": 1800,
   "max_health": 1500,
   "attachable": {
