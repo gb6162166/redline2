@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Horsefly *",
-  "description": "!LOC:Strafer Aircraft - Rng:100, Mov:70. Attacks land and sea targets.",
+  "description": "!LOC:Strafer Aircraft - Rng:100, Mov:60. Uses basic quad, air-to-ground missiles. M:4x30*3.0",
   "max_health": 300,
-  "build_metal_cost": 825,
+  "build_metal_cost": 750,
   "unit_types": [
     "UNITTYPE_Custom58",
     "UNITTYPE_Gunship",
@@ -19,14 +19,13 @@
     "ORDER_Patrol",
     "ORDER_Attack"
   ],
-  "guard_radius": 100,
   "guard_layer": "WL_AnyLayer",
   "navigation": {
     "type": "air",
-    "acceleration": 70,
-    "brake": 15,
+    "acceleration": 60,
+    "brake": 20,
     "ignore_overshoot": true,
-    "move_speed": 70,
+    "move_speed": 60,
     "turn_speed": 120,
     "dodge_radius": 0,
     "dodge_multiplier": 0.0,
