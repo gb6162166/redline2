@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Ultra Icarus *",
   "si_name": "icarus",
-  "description": "!LOC:Upgraded Solar Drone - Rng:100, Mov:50. Produces 140 energy when idle. Attacks land, air, and sea targets.",
+  "description": "!LOC:Upgraded Solar Drone - Rng:100, Mov:50. Uses upgraded lightning attack. Produces 150 energy when idle. L:100*1.0",
   "max_health": 250,
-  "build_metal_cost": 850,
+  "build_metal_cost": 790,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -16,7 +16,7 @@
     }
   },
   "production": {
-    "energy": 140
+    "energy": 150
   },
   "unit_types": [
     "UNITTYPE_Custom58",
