@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Boss Icarus *",
   "si_name": "icarusb",
-  "description": "!LOC:Boss Solar Drone - Rng:130, Mov:50. Produces 170 energy when idle. Attacks land, air, and sea targets.",
+  "description": "!LOC:Boss Solar Drone - Rng:130, Mov:50. Uses advanced lightning attack. Produces 200 energy when idle. L:300*1.0",
   "max_health": 2000,
-  "build_metal_cost": 6000,
+  "build_metal_cost": 5650,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -16,7 +16,7 @@
     }
   },
   "production": {
-    "energy": 170
+    "energy": 200
   },
   "unit_types": [
     "UNITTYPE_Custom58",
