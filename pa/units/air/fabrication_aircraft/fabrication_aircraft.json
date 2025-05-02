@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "unit_name": "Fabrication Aircraft",
   "display_name": "!LOC:Fab Aircraft *",
-  "description": "!LOC:Basic Fabricator - Build basic structures - Rng:45, Mov:30. Consumes 800 energy and 9 metal when building.",
+  "description": "!LOC:Basic Fabricator - Build basic structures - Rng:45, Mov:30. Consumes 1000 energy and 9 metal when building.",
   "max_health": 120,
   "build_metal_cost": 250,
   "attachable": {
