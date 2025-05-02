@@ -3,12 +3,12 @@
   "display_name": "!LOC:Phoenix Air-To-Air Missile",
   "damage": 300,
   "splash_damage": 40,
-  "splash_radius": 25,
+  "splash_radius": 15,
   "full_damage_splash_radius": 10,
-  "initial_velocity": 150.0,
-  "max_velocity": 150.0,
-  "turn_rate": 270,
-  "lifetime": 2.1,
+  "initial_velocity": 170.0,
+  "max_velocity": 170.0,
+  "turn_rate": 315,
+  "lifetime": 2.4,
   "model": {
     "filename": "/pa/units/air/atoa_missile/atoa_missile.papa"
   },
