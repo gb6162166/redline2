@@ -23,9 +23,11 @@
 "/pa/units/air/ultra_horsefly/ultra_horsefly.json",
 "/pa/units/air/ultra_phoenix/ultra_phoenix.json",
 "/pa/units/air/ultra_kestrel/ultra_kestrel.json",
+"/pa/units/air/ultra_pelican/ultra_pelican.json",
 "/pa/units/air/ultra_icarus/ultra_icarus.json",
 "/pa/units/air/boss_kestrel/boss_kestrel.json",
 "/pa/units/air/boss_icarus/boss_icarus.json",
+"/pa/units/air/boss_pelican/boss_pelican.json",
 
 "/pa/units/land/radar_jammer/radar_jammer.json",
 
