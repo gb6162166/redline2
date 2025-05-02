@@ -29,10 +29,12 @@ var newBuild = {
 	"/pa/units/air/ultra_phoenix/ultra_phoenix.json": ["air", 3101, { row: 0, column: 1 }],
 	"/pa/units/air/ultra_kestrel/ultra_kestrel.json": ["air", 3102, { row: 0, column: 2 }],
 	"/pa/units/air/ultra_horsefly/ultra_horsefly.json": ["air", 3103, { row: 0, column: 3 }],
+	"/pa/units/air/ultra_pelican/ultra_pelican.json": ["air", 3104, { row: 0, column: 4 }],	
 	"/pa/units/air/ultra_icarus/ultra_icarus.json": ["air", 3105, { row: 0, column: 5 }],		
 	
 	"/pa/units/air/boss_kestrel/boss_kestrel.json": ["boss air", 3201, { row: 0, column: 0 }],
 	"/pa/units/air/boss_icarus/boss_icarus.json": ["boss air", 3202, { row: 1, column: 0 }],
+	"/pa/units/air/boss_pelican/boss_pelican.json": ["boss air", 3203, { row: 2, column: 0 }],
 	
 	
 	"/pa/units/sea/swordfish/swordfish.json": ["sea", 4001, { row: 0, column: 1 }],
