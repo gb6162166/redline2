@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Phoenix *",
-  "description": "!LOC:Advanced Fighter Jet - Rng:120, Mov:80. Can move between planets. Attacks air targets. Equipped with upgraded missiles - VTL/130/225/18.",
+  "description": "!LOC:Advanced Fighter Jet - Rng:120, Mov:80. Uses advanced, air-to-air missiles. AA:150*1.5",
   "build_metal_cost": 825,
   "max_health": 300,
   "system_velocity_multiplier": 30.0,
@@ -39,13 +39,13 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 150
+          "radius": 170
         },
         {
           "layer": "underwater",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 150
+          "radius": 170
         }
       ]
     }
