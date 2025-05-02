@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Pelican *",
-  "description": "!LOC:Air Transport - Mov:70. Transports up to four land units.",
+  "description": "!LOC:Air Transport - Mov:60. Transports up to four land units.",
   "max_health": 300,
-  "build_metal_cost": 1400,
+  "build_metal_cost": 2000,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -65,9 +65,9 @@
   },
   "navigation": {
     "type": "air",
-    "acceleration": 30,
-    "brake": 60,
-    "move_speed": 70,
+    "acceleration": 20,
+    "brake": 30,
+    "move_speed": 60,
     "turn_speed": 180,
     "vertical_speed": 100,
     "hover_time": -1.0,
@@ -137,7 +137,67 @@
         1.418,
         0.5
       ]
-    }
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/effects/hover/blue_transport_hover.pfx",
+      "bone": "bone_root",
+      "offset": [
+        -2.86,
+        -1.9,
+        0.96
+      ],
+      "orientation": [
+        0,
+        0,
+        -202.5
+      ]
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/effects/hover/blue_transport_hover.pfx",
+      "bone": "bone_root",
+      "offset": [
+        2.86,
+        -1.9,
+        0.96
+      ],
+      "orientation": [
+        0,
+        0,
+        22.5
+      ]
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/effects/hover/blue_transport_hover.pfx",
+      "bone": "bone_root",
+      "offset": [
+        2.13,
+        2.14,
+        2.22
+      ],
+      "orientation": [
+        0,
+        0,
+        -15
+      ]
+    },
+    {
+      "type": "idle",
+      "filename": "/pa/effects/hover/blue_transport_hover.pfx",
+      "bone": "bone_root",
+      "offset": [
+        -2.13,
+        2.14,
+        2.22
+      ],
+      "orientation": [
+        0,
+        0,
+        195
+      ]
+    }	
   ],
   "selection_icon": {
     "diameter": 20.0
