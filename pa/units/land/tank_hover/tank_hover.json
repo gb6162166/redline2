@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Drifter *",
-  "description": "!LOC:Hover Tank - Rng:120, Mov:15. Uses long range laser turret. Can cross water and lava. L:120*0.4",
+  "description": "!LOC:Hover Tank - Rng:120, Mov:15. Uses long range laser turret. L:120*0.4",
   "max_health": 250,
   "build_metal_cost": 280,
   "armor_type": "AT_Hover",
@@ -27,7 +27,8 @@
     "UNITTYPE_Land",
     "UNITTYPE_Basic",
     "UNITTYPE_Hover",
-    "UNITTYPE_FactoryBuild"
+    "UNITTYPE_FactoryBuild",
+	"UNITTYPE_CannonBuildable"	
   ],
   "transportable": {
     "size": 1
@@ -85,7 +86,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -2.86,
@@ -100,7 +101,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         2.86,
@@ -115,7 +116,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         2.13,
@@ -130,7 +131,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -2.13,
