@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "unit_name": "Air Factory",
   "display_name": "!LOC:Air Factory *",
-  "description": "!LOC:Basic Manufacturing - Builds basic air units.",
+  "description": "!LOC:Basic Manufacturing - Builds basic air units. Consumes 1050 energy and 15 metal when building.",
   "max_health": 6000,
   "build_metal_cost": 600,
   "atrophy_rate": 12.0,
