@@ -38,7 +38,7 @@ Red Line 2 is aggressive, balanced, and recognizable to all players - no extra l
 
 </span>
 
-![](img/tanks_spec_adv.png)
+![](img/tanks_adv2.png)
 
 <span style="color:#FFCCFF">
 
