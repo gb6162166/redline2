@@ -6,7 +6,7 @@
 
 </span>
 
-Red Line 2 is aggressive, balanced, and recognizable to all players - no extra learning required. It is recommended you play Red Line 2 using maps from the *#gb6 Definitive map pack* available in community mods. Red Line 2 is compatible with Legion Expansion.
+Red Line 2 is aggressive, balanced, and recognizable to all players - no extra learning required. New units have been added that are optional upgrades to existing units. The game is balanced by making all units equal to 1 dox. The damage, fire rate, weapon range, move speed, and unit health are calclulated such that all units are equal. This includes water units, air units, and multiple weapons. Red Line 2 plays best using maps from the *#gb6 Definitive map pack* available in community mods.
 
 <span style="color:#FFCCFF">
 
