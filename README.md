@@ -14,7 +14,7 @@ Red Line 2 is aggressive, balanced, and recognizable to all players - no extra l
 
 </span>
 
-![](img/bots2.jpg)
+![](img/bots2.png)
 
 <span style="color:#FFCCFF">
 
