@@ -8,7 +8,7 @@
   "initial_velocity": 80.0,
   "max_velocity": 80.0,
   "turn_rate": 45,
-  "lifetime": 15,
+  "lifetime": 13,
   "influence_radius": 400,
   "events": {
     "died": {
