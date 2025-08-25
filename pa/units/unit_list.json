@@ -16,9 +16,9 @@
 "/pa/units/land/ultra_drifter/ultra_drifter.json",
 "/pa/units/land/aa_drifter/aa_drifter.json",
 "/pa/units/land/ultra_leveler/ultra_leveler.json",
-"/pa/units/land/stryker/stryker.json",
 "/pa/units/land/boss_drifter/boss_drifter.json",
 "/pa/units/land/boss_stryker/boss_stryker.json",
+"/pa/units/land/land_echo/land_echo.json",
 
 "/pa/units/air/ultra_horsefly/ultra_horsefly.json",
 "/pa/units/air/ultra_phoenix/ultra_phoenix.json",
@@ -153,6 +153,7 @@
 "/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv.json",
 "/pa/units/land/land_barrier/land_barrier.json",
 "/pa/units/land/land_mine/land_mine.json",
+"/pa/units/land/land_scout/land_scout.json",
 "/pa/units/land/laser_defense/laser_defense.json",
 "/pa/units/land/laser_defense_adv/laser_defense_adv.json",
 "/pa/units/land/laser_defense_single/laser_defense_single.json",
@@ -219,7 +220,13 @@
 "/pa/units/commanders/tutorial_ai_commander_3/tutorial_ai_commander_3.json",
 "/pa/units/commanders/tutorial_player_commander/tutorial_player_commander.json",
 "/pa/units/commanders/tutorial_titan_commander/tutorial_titan_commander.json",
+
 "/pa/units/land/artillery_unit_launcher/artillery_unit_launcher.json",
+"/pa/units/land/artillery_spider_launcher/artillery_spider_launcher.json",
+"/pa/units/land/artillery_grenadier_launcher/artillery_grenadier_launcher.json",
+
+
+"/pa/units/land/attack_vehicle/attack_vehicle.json",
 
 "/pa/units/land/bot_nanoswarm/bot_nanoswarm.json",
 "/pa/units/land/bot_support_commander/bot_support_commander.json",
