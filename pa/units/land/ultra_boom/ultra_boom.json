@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "!LOC:Ultra Boom *",
   "si_name": "boom",
-  "description": "!LOC:Upgraded Bomb Bot - Rng:15, Mov:33. Uses heavy damage, self-destruct bomb. B:1500*1.0",
+  "description": "!LOC:Upgraded Spider Bomb - Rng:15, Mov:33. Uses heavy damage, self-destruct bomb. B:1500*1.0",
   "max_health": 220,
   "build_metal_cost": 600,
   "wreckage_health_frac": 0.0,
