@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "unit_name": "Fabrication Vehicle",
   "display_name": "!LOC:Fab Vehicle *",
-  "description": "!LOC:Basic Fabricator - Builds basic structures - Rng:45, Mov:12. Consumes 800 energy and 12 metal when building.",
+  "description": "!LOC:Basic Fabricator - Builds basic structures - Rng:45, Mov:12. Consumes 800 energy and 13 metal when building.",
   "max_health": 160,
   "build_metal_cost": 200,
   "buildable_types": "(Land & Structure & Basic | Factory & Basic | Factory & Land & Tank & Advanced | FabBuild) & Custom58",
