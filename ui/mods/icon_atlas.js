@@ -28,7 +28,10 @@ var moreIcons = [
 	"swordfish",
 	"leviathan",
 	"pelican",
-	"pelicanb"
+	"pelicanb",
+	"echo",
+	"lobb",
+	"lobg"
 	
 ];
 model.strategicIcons(model.strategicIcons().concat(moreIcons));
