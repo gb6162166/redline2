@@ -21,7 +21,7 @@
     ]
   ],
   "wait_to_rolloff_time": 0,
-  "factory_cooldown_time": 4.0,
+  "factory_cooldown_time": 3.6,
   "unit_types": [
     "UNITTYPE_Custom58",
     "UNITTYPE_Factory",
