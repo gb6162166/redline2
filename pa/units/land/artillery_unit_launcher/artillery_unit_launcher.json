@@ -1,9 +1,9 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "display_name": "Lob *",
-  "description": "!LOC:Dox Launcher - Rng:200. Builds and fires Dox at nearby targets.",
+  "display_name": "Dox Lob *",
+  "description": "!LOC:Dox Launcher - Rng:200. Builds Dox units 23% faster than Bot Factory, and launches them 7 at a time.",
   "max_health": 1000,
-  "build_metal_cost": 1200,
+  "build_metal_cost": 1150,
   "atrophy_rate": 25,
   "atrophy_cool_down": 15.0,
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
