@@ -30,7 +30,7 @@ Red Line 2 is aggressive, balanced, and recognizable to all players - no extra l
 
 </span>
 
-![](img/tanks2.png)
+![](img/tanks3.png)
 
 <span style="color:#FFCCFF">
 
@@ -63,6 +63,7 @@ Red Line 2 is aggressive, balanced, and recognizable to all players - no extra l
 </span>
 
 ![](img/air_combat_spec.png)
+
 
 
 
