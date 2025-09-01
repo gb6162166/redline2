@@ -62,9 +62,8 @@ Red Line 2 is aggressive, balanced, and recognizable to all players - no extra l
 
 </span>
 
-There are four types of anti-air missiles:
+![](img/ground_missile_types2.png)
 
-![](img/air_combat_spec.png)
 
 
 
