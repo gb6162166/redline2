@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
   "display_name": "Ultra Piranha *",
   "si_name":"piranha",
-  "description": "!LOC:Upgraded Laser Gunboat - Rng:120, Mov:16. Uses improved single laser turret. Water hover, torpedo cannot target. Las:60/2.0",
+  "description": "!LOC:Upgraded Laser Gunboat - Rng:120, Mov:16. Uses upgraded lasers with improved range and damage. Hovers on water. L:60*2.0",
   "max_health": 350,
   "build_metal_cost": 520,
   "spawn_layers": "WL_WaterSurface",
