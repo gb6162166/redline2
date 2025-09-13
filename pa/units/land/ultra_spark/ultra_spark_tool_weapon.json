@@ -6,7 +6,7 @@
       "id": "/pa/units/land/ultra_spark/ultra_spark_ammo.json"
     }
   ],
-  "rate_of_fire": 1.5,
+  "rate_of_fire": 2.0,
   "idle_aim_delay": 1.0,
   "max_range": 110,
   "yaw_rate": 360,
