@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Drifter *",
   "si_name": "drifter",
-  "description": "!LOC:Upgraded Hover Tank - Rng:130, Mov:15. Uses long range laser turret. L:150*0.5",
+  "description": "!LOC:Upgraded Hover Tank - Rng:130, Mov:15. Uses upgraded, long range laser turret. L:150*0.5",
   "max_health": 800,
   "build_metal_cost": 760,
   "armor_type": "AT_Hover",
