@@ -3,8 +3,8 @@
   "display_name": "Boss Kestrel *",
   "si_name": "kestrelb",
   "description": "!LOC:Boss Gunship - Rng:100, Mov:80. Uses devastating, advanced twin, air-to-ground lasers. L:2x60*4.0",
-  "max_health": 3000,
-  "build_metal_cost": 6400,
+  "max_health": 1800,
+  "build_metal_cost": 4000,
   "spawn_layers": "WL_Air",
   "unit_types": [
     "UNITTYPE_Custom58",
