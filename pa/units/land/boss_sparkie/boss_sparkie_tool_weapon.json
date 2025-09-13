@@ -6,7 +6,7 @@
       "id": "/pa/units/land/boss_sparkie/boss_sparkie_ammo.json"
     }
   ],
-  "rate_of_fire": 3.0,
+  "rate_of_fire": 2.0,
   "idle_aim_delay": 1.0,
   "max_range": 120,
   "yaw_rate": 360,

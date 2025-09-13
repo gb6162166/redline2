@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Boss Sparkie *",
   "si_name": "sparkb",
-  "description": "!LOC:Boss Assault Bot - Rng:120, Mov:15. Uses long range, heavy damage laser. Las:100*3.0",
-  "max_health": 2000,
-  "build_metal_cost": 2100,
+  "description": "!LOC:Boss Assault Bot - Rng:120, Mov:15. Advanced laser bot with superb armor. Uses long range, heavy damage laser. L:100*2.0",
+  "max_health": 1000,
+  "build_metal_cost": 1150,
   "attachable": {
     "offsets": {
       "root": [
