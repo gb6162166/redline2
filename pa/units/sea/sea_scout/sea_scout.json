@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
   "display_name": "Piranha *",
-  "description": "!LOC:Laser Gunboat - Rng:100, Mov:16. Uses single laser turret. Water hover, torpedo cannot target. Las:30/2.0",
+  "description": "!LOC:Laser Gunboat - Rng:100, Mov:16. Uses basic lasers. Hovers on water. L:30*2.0",
   "max_health": 200,
   "build_metal_cost": 260,
   "spawn_layers": "WL_WaterSurface",
