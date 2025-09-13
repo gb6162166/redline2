@@ -3,8 +3,8 @@
   "display_name": "Ultra Kestrel *",
   "si_name": "kestrel",
   "description": "!LOC:Upgraded Gunship - Rng:85, Mov:70. Uses heavy damage, upgraded twin, air-to-ground lasers. L:2x40*4.0",
-  "max_health": 1200,
-  "build_metal_cost": 2350,
+  "max_health": 900,
+  "build_metal_cost": 1800,
   "spawn_layers": "WL_Air",
   "unit_types": [
     "UNITTYPE_Custom58",
