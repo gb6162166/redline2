@@ -1,5 +1,8 @@
 {"units":[
 
+"/pa/units/land/bot_dox/bot_dox.json",
+"/pa/units/land/r2_gren/r2_gren.json",
+
 "/pa/units/land/ultra_dox/ultra_dox.json",
 "/pa/units/land/ultra_grenadier/ultra_grenadier.json",
 "/pa/units/land/ultra_spark/ultra_spark.json",
@@ -127,7 +130,9 @@
 "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher.json",
 "/pa/units/land/artillery_long/artillery_long.json",
 "/pa/units/land/artillery_short/artillery_short.json",
-"/pa/units/land/assault_bot/assault_bot.json",
+
+
+
 "/pa/units/land/assault_bot_adv/assault_bot_adv.json",
 "/pa/units/land/avatar_factory/avatar_factory.json",
 "/pa/units/land/base_bot/base_bot.json",
@@ -137,7 +142,9 @@
 "/pa/units/land/bot_bomb/bot_bomb.json",
 "/pa/units/land/bot_factory/bot_factory.json",
 "/pa/units/land/bot_factory_adv/bot_factory_adv.json",
-"/pa/units/land/bot_grenadier/bot_grenadier.json",
+
+
+
 "/pa/units/land/bot_sniper/bot_sniper.json",
 "/pa/units/land/bot_spider_adv/bot_spider_adv.json",
 "/pa/units/land/bot_tactical_missile/bot_tactical_missile.json",
@@ -207,13 +214,18 @@
 "/pa/units/sea/swordfish/swordfish.json",
 "/pa/units/sea/ultra_orca/ultra_orca.json",
 "/pa/units/sea/megalodon/megalodon.json",
+"/pa/units/sea/archerfish/archerfish.json",
 
 "/pa/units/sea/torpedo_launcher/torpedo_launcher.json",
 "/pa/units/sea/torpedo_launcher_adv/torpedo_launcher_adv.json",
 "/pa/units/air/bomber_heavy/bomber_heavy.json",
 "/pa/units/air/solar_drone/solar_drone.json",
 "/pa/units/air/strafer/strafer.json",
-"/pa/units/air/support_platform/support_platform.json",
+
+
+"/pa/units/air/r2_angel/r2_angel.json",
+
+
 "/pa/units/air/titan_air/titan_air.json",
 "/pa/units/commanders/tutorial_ai_commander/tutorial_ai_commander.json",
 "/pa/units/commanders/tutorial_ai_commander_2/tutorial_ai_commander_2.json",
@@ -230,7 +242,10 @@
 
 "/pa/units/land/bot_nanoswarm/bot_nanoswarm.json",
 "/pa/units/land/bot_support_commander/bot_support_commander.json",
-"/pa/units/land/bot_tesla/bot_tesla.json",
+
+"/pa/units/land/bot_spark/bot_spark.json",
+
+
 "/pa/units/land/tank_flak/tank_flak.json",
 "/pa/units/land/tank_hover/tank_hover.json",
 "/pa/units/land/tank_nuke/tank_nuke.json",
