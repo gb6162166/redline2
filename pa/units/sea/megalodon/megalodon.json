@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
   "display_name": "Megalodon *",
   "si_name":"leviathan",  
-  "description": "!LOC:Laser Battleship - Rng:240/160. Mov:10. Uses twin turret, ultra long range, advanced lasers, and twin turret, long range, superior lasers. L:250*1.5, L:200*1.0",
+  "description": "!LOC:Laser Battleship - Rng:240/160. Mov:10. Uses twin turret, ultra long range, advanced lasers, and twin turret, long range, superior lasers. L:2x250*1.5, L:2x200*1.0",
   "max_health": 6000,
   "build_metal_cost": 5000,
   "spawn_layers": "WL_WaterSurface",
