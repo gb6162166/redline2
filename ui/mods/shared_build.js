@@ -8,8 +8,14 @@ var newBuild = {
 	"/pa/units/land/ultra_bluehawk/ultra_bluehawk.json": ["bot", 1014, { row: 0, column: 4 }],
 	"/pa/units/land/ultra_boom/ultra_boom.json": ["bot", 1016, { row: 1, column: 6 }],
 	
-	"/pa/units/land/boss_doxer/boss_doxer.json": ["boss bot", 1201, { row: 0, column: 0 }],	
-	"/pa/units/land/boss_sparkie/boss_sparkie.json": ["boss bot", 1202, { row: 1, column: 0 }],	
+	"/pa/units/land/bot_dox/bot_dox.json": ["bot", 1021, { row: 2, column: 1 }],		
+	"/pa/units/land/r2_gren/r2_gren.json": ["bot", 1022, { row: 2, column: 2 }],		
+	"/pa/units/land/bot_spark/bot_spark.json": ["bot", 1025, { row: 2, column: 5 }],		
+	
+	"/pa/units/land/boss_doxer/boss_doxer.json": ["boss bot", 1200, { row: 0, column: 0 }],	
+	"/pa/units/land/boss_sparkie/boss_sparkie.json": ["boss bot", 1201, { row: 1, column: 0 }],	
+
+	
 	
 	
 	"/pa/units/land/ultra_ant/ultra_ant.json": ["vehicle", 2001, { row: 0, column: 1 }],
@@ -25,9 +31,9 @@ var newBuild = {
 	
 	"/pa/units/land/boss_drifter/boss_drifter.json": ["boss vehicle", 2210, { row: 1, column: 0 }],	
 	"/pa/units/land/boss_stryker/boss_stryker.json": ["boss vehicle", 2220, { row: 2, column: 0 }],	
-		
 	
 	
+	"/pa/units/air/r2_angel/r2_angel.json": ["air", 3100, { row: 0, column: 0 }],
 	"/pa/units/air/ultra_phoenix/ultra_phoenix.json": ["air", 3101, { row: 0, column: 1 }],
 	"/pa/units/air/ultra_kestrel/ultra_kestrel.json": ["air", 3102, { row: 0, column: 2 }],
 	"/pa/units/air/ultra_horsefly/ultra_horsefly.json": ["air", 3103, { row: 0, column: 3 }],
@@ -42,6 +48,7 @@ var newBuild = {
 	"/pa/units/sea/swordfish/swordfish.json": ["sea", 4001, { row: 0, column: 1 }],
 	"/pa/units/sea/ultra_orca/ultra_orca.json": ["sea", 4002, { row: 0, column: 2 }],
 	"/pa/units/sea/ultra_piranha/ultra_piranha.json": ["sea", 4004, { row: 0, column: 4 }],
+	"/pa/units/sea/archerfish/archerfish.json": ["sea", 4005, { row: 0, column: 5 }],
 	
 	"/pa/units/sea/megalodon/megalodon.json": ["sea", 4105, { row: 1, column: 5 }],
 	

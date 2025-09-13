@@ -1,8 +1,10 @@
 var moreIcons = [
 	"dox",
+	"doxu",
 	"doxb",
 	"grenadier",
 	"spark",
+	"sparku",
 	"sparkb",
 	"stinger",
 	"slammer",
@@ -31,7 +33,10 @@ var moreIcons = [
 	"pelicanb",
 	"echo",
 	"lobb",
-	"lobg"
+	"lobg",
+	"archerfish",
+	"r2_gren",
+	"r2_angel"
 	
 ];
 model.strategicIcons(model.strategicIcons().concat(moreIcons));
