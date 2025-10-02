@@ -1,8 +1,8 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Boss Drifter *",
-  "si_name": "drifterb",
-  "description": "!LOC:Boss Hover Tank - Rng:130, Mov:15. Uses superb, long range, heavy damage laser turret. Provides radar. L:150*4.0",
+  "si_name": "r2_drifter_b",
+  "description": "!LOC:Boss Hover Tank - Rng:130, Mov:15. Uses superb, long range, heavy damage laser turret. Provides radar. Hovers on land, water and lava. L:150*4.0",
   "max_health": 2400,
   "build_metal_cost": 3100,
   "armor_type": "AT_Hover",
@@ -52,7 +52,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 140
+          "radius": 130
         },
         {
           "layer": "surface_and_air",
@@ -83,7 +83,7 @@
     },
     "fired": {
       "audio_cue": "/SE/Weapons/veh/tank_hover_fire",
-      "effect_spec": "/pa/units/land/boss_drifter/boss_drifter_muzzle_flash.pfx socket_muzzle"
+      "effect_spec": "/pa/ammo/tank_shell/drifter_gold_muzzle_flash.pfx socket_muzzle"
     },
     "died": {
       "audio_cue": "/SE/Death/Veh"

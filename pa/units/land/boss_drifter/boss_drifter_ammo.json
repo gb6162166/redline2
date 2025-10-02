@@ -4,7 +4,7 @@
     "filename": ""
   },
   "fx_trail": {
-    "filename": "/pa/units/land/boss_drifter/boss_drifter_ammo_trail.pfx"
+    "filename": "/pa/ammo/tank_shell/drifter_gold_ammo_trail.pfx"
   },
   "damage": 150,
   "splash_damage": 0,
@@ -15,7 +15,7 @@
   "events": {
     "died": {
       "audio_cue": "/SE/Impacts/shell_tank",
-      "effect_spec": "/pa/units/land/boss_drifter/boss_drifter_ammo_hit.pfx"
+      "effect_spec": "/pa/ammo/tank_shell/drifter_gold_ammo_hit.pfx"
     }
   }
 }
