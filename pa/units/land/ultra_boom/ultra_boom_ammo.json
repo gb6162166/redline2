@@ -1,6 +1,6 @@
 {
   "ammo_type": "PBAOE",
-  "damage": 1500,
+  "damage": 1000,
   "splash_radius": 20,
   "splash_damages_allies": false,
   "sim_fire_effect": "/pa/units/land/ultra_boom/ultra_boom_ammo_explosion_ent.json",
