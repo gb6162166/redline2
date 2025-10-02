@@ -2,9 +2,9 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Boss Doxer *",
   "si_name":"doxb",
-  "description": "!LOC:Boss Laser Bot - Rng:95, Mov:18. Uses advanced double lasers. L:2x80*1.0",
-  "max_health": 600,
-  "build_metal_cost": 730,
+  "description": "!LOC:Boss Laser Bot - Rng:95, Mov:18. Uses advanced double lasers. Moves underwater. L:2x50*1.0",
+  "max_health": 500,
+  "build_metal_cost": 600,
   "attachable": {
     "offsets": {
       "root": [
