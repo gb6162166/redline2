@@ -1,6 +1,6 @@
 {
   "display_name": "Vanguard *",
-  "description": "!LOC:Advanced Heavy Assault Tank - Rng:60/250, Mov:9. Uses short range, heavy damage, fireball cannon. Provides radar. F:650*1.0",
+  "description": "!LOC:Advanced Heavy Assault Tank - Rng:60, Mov:9. Uses short range, heavy damage, fireball cannon. Provides radar. F:650*1.0",
   "TEMP_texelinfo": 9.04444,
   "attachable": {
     "offsets": {
@@ -16,8 +16,8 @@
       ]
     }
   },
-  "build_metal_cost": 2450,
-  "max_health": 4000,
+  "build_metal_cost": 2100,
+  "max_health": 4400,
   "audio": {
     "loops": {
       "move": {
