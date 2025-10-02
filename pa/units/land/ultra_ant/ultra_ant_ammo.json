@@ -6,7 +6,7 @@
   "fx_trail": {
     "filename": "/pa/units/land/ultra_ant/ultra_ant_ammo_trail.pfx"
   },
-  "damage": 200,
+  "damage": 150,
   "splash_damage": 0,
   "splash_radius": 0,
   "initial_velocity": 150.0,
