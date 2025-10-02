@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Ultra Spark *",
-  "si_name": "sparku",
-  "description": "!LOC:Upgraded Assault Bot - Rng:110, Mov:15. Uses upgraded assault laser. L:50*2.0",
-  "max_health": 360,
-  "build_metal_cost": 450,
+  "si_name": "r2_spark_u",
+  "description": "!LOC:Upgraded Assault Bot - Rng:110, Mov:15. Uses upgraded assault laser. L:40*2.0",
+  "max_health": 240,
+  "build_metal_cost": 325,
   "attachable": {
     "offsets": {
       "root": [
