@@ -6,9 +6,9 @@
       "id": "/pa/units/land/ultra_dox/ultra_dox_ammo.json"
     }
   ],
-  "rate_of_fire": 1.0,
+  "rate_of_fire": 1.3,
   "idle_aim_delay": 1.0,
-  "max_range": 85,
+  "max_range": 90,
   "yaw_rate": 360,
   "pitch_rate": 360,
   "yaw_range": 180,

@@ -87,7 +87,7 @@
     },
     "died": {
       "audio_cue": "/SE/Death/Bot_bomb",
-      "effect_spec": "/pa/units/land/bot_bomb/bot_bomb_ammo_explosion.pfx",
+      "effect_spec": "/pa/units/land/r2_boom/r2_boom_ammo_explosion.pfx",
       "effect_scale": 1.0
     }
   },

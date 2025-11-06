@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Goldhawk *",
-  "si_name": "bluehawk",
+  "si_name": "r2_bluehawk_u",
   "description": "!LOC:Upgraded Bluehawk - Rng:200, Mov:12. Uses extra long range, heavy damage, tactical missiles. Provides anti-drop defence. M:1000*0.3",
   "build_metal_cost": 1500,
   "max_health": 800,

@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Ultra Drifter *",
-  "si_name": "drifter",
-  "description": "!LOC:Upgraded Hover Tank - Rng:130, Mov:15. Uses upgraded, long range laser turret. L:150*0.5",
-  "max_health": 800,
-  "build_metal_cost": 760,
+  "si_name": "r2_drifter_u",
+  "description": "!LOC:Upgraded Hover Tank - Rng:130, Mov:15. Uses upgraded, long range laser turret. Hovers on land, water and lava. L:150*1.0",
+  "max_health": 700,
+  "build_metal_cost": 850,
   "armor_type": "AT_Hover",
   "attachable": {
     "offsets": {
@@ -53,7 +53,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 140
+          "radius": 130
         }
       ]
     }
@@ -78,7 +78,7 @@
     },
     "fired": {
       "audio_cue": "/SE/Weapons/veh/tank_hover_fire",
-      "effect_spec": "/pa/units/land/ultra_drifter/ultra_drifter_muzzle_flash.pfx socket_muzzle"
+      "effect_spec": "/pa/ammo/tank_shell/drifter_red_muzzle_flash.pfx socket_muzzle"
     },
     "died": {
       "audio_cue": "/SE/Death/Veh"
@@ -159,54 +159,6 @@
       "cue": "/SE/Selection/veh/tank_hover"
     }
   },
-  "headlights": [
-    {
-      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
-      "offset": [
-        1.8,
-        -2,
-        1.0
-      ],
-      "orientation": [
-        0.0,
-        65.0,
-        0.0
-      ],
-      "near_width": 2.0,
-      "near_height": 2.0,
-      "near_distance": 1.2,
-      "far_distance": 20.0,
-      "color": [
-        0.9,
-        0.92,
-        1.0
-      ],
-      "intensity": 1.4
-    },
-    {
-      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
-      "offset": [
-        -1.8,
-        -2,
-        1.0
-      ],
-      "orientation": [
-        0.0,
-        65.0,
-        0.0
-      ],
-      "near_width": 2.0,
-      "near_height": 2.0,
-      "near_distance": 1.2,
-      "far_distance": 20.0,
-      "color": [
-        0.9,
-        0.92,
-        1.0
-      ],
-      "intensity": 1.4
-    }
-  ],
   "selection_icon": {
     "diameter": 12.0
   },
