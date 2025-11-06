@@ -1,0 +1,121 @@
+{
+  "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
+  "display_name": "Shadow Ant : .",
+  "si_name": "r2_ant_sh",
+  "description": "!LOC:Upgraded Laser Tank - Rng:100, Mov:20. Uses upgraded laser turret. L:120*1.0",
+  "max_health": 400,
+  "build_metal_cost": 100,
+  "attachable": {
+    "offsets": {
+      "root": [
+        0,
+        0,
+        0
+      ],
+      "head": [
+        0,
+        0,
+        2.7
+      ]
+    }
+  },
+  "unit_types": [
+    "UNITTYPE_Custom58",
+    "UNITTYPE_Tank",
+    "UNITTYPE_Mobile",
+    "UNITTYPE_Offense",
+    "UNITTYPE_Land",
+    "UNITTYPE_Basic",
+    "UNITTYPE_FactoryBuild",
+    "UNITTYPE_CannonBuildable"
+  ],
+  "transportable": {
+    "size": 1
+  },
+  "guard_layer": "WL_AnySurface",
+  "navigation": {
+    "type": "land-small",
+    "acceleration": 100,
+    "brake": 100,
+    "move_speed": 20,
+    "turn_speed": 120
+  },
+  "physics": {
+    "radius": 4
+  },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "layer": "surface_and_air",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 200
+        }
+      ]
+    }
+  },
+  "model": {
+    "filename": "/pa/units/land/tank_light_laser/tank_light_laser.papa",
+    "animtree": "/pa/anim/anim_trees/turret_anim_tree.json",
+    "arrows": 5
+  },
+  "tools": [
+    {
+      "spec_id": "/pa/units/land/r2_ant_sh/r2_ant_sh_tool_weapon.json",
+      "aim_bone": "socket_aim",
+      "muzzle_bone": "socket_muzzle"
+    }
+  ],
+  "events": {
+    "build_complete": {
+      "audio_cue": "/SE/Build_Complete/veh"
+    },
+    "fired": {
+      "audio_cue": "/SE/Weapons/veh/tank_light_fire",
+      "effect_spec": "/pa/effects/specs/tank_muzzle_flash.pfx socket_muzzle"
+    },
+    "died": {
+      "audio_cue": "/SE/Death/Veh"
+    }
+  },
+  "fx_offsets": [
+    {
+      "type": "idle",
+      "filename": "/pa/effects/hover/shadow_pulse_small.pfx",
+      "bone": "bone_root",
+      "offset": [
+        0,
+        -3,
+        0.96
+      ],
+      "orientation": [
+        0,
+        0,
+        22.5
+      ]
+    }
+  ],        
+  "audio": {
+    "loops": {
+      "move": {
+        "cue": "/SE/Movement/veh/tank_light_laser_loop",
+        "flag": "vel_changed",
+        "should_start_func": "is_moving",
+        "should_stop_func": "is_not_moving"
+      }
+    },
+    "selection_response": {
+      "cue": "/SE/Selection/veh/tank_light_laser"
+    }
+  },
+  "selection_icon": {
+    "diameter": 11.0
+  },
+  "mesh_bounds": [
+    4.93769,
+    6.4,
+    2.6835
+  ],
+  "TEMP_texelinfo": 5.84968
+}
