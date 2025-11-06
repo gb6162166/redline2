@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Boss Icarus *",
-  "si_name": "icarusb",
-  "description": "!LOC:Boss Solar Drone - Rng:130, Mov:50. Uses advanced lightning attack. Produces 200 energy when idle. L:300*1.0",
+  "si_name": "r2_icarus_b",
+  "description": "!LOC:Boss Solar Drone - Rng:130, Mov:50. Uses advanced lightning attack. Produces 200 energy when idle. L:300*1.2",
   "max_health": 1500,
-  "build_metal_cost": 4400,
+  "build_metal_cost": 4000,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -33,7 +33,7 @@
     },
     "fired": {
       "audio_cue": "/SE/Weapons/air/solar_drone_fire",
-      "effect_spec": "/pa/units/air/ultra_icarus/ultra_icarus_muzzle_flash.pfx bone_leftWing01 /pa/units/air/ultra_icarus/ultra_icarus_muzzle_flash.pfx bone_rightWing01"
+      "effect_spec": "/pa/units/air/boss_icarus/boss_icarus_muzzle_flash.pfx bone_leftWing01 /pa/units/air/boss_icarus/boss_icarus_muzzle_flash.pfx bone_rightWing01"
     },
     "died": {
       "audio_cue": "/SE/Death/Air",
@@ -112,7 +112,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_idle.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_idle.pfx",
       "bone": "bone_root",
       "offset": [
         0,
@@ -122,7 +122,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_jets.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_jets.pfx",
       "bone": "bone_rightThruster",
       "offset": [
         0.578,
@@ -137,7 +137,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_jets.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_jets.pfx",
       "bone": "bone_leftThruster",
       "offset": [
         -0.578,

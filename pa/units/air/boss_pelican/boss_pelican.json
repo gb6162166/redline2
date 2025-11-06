@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Boss Pelican *",
-  "si_name": "pelicanb",
-  "description": "!LOC:Advanced Air Transport - Mov:60. Armored transport for up to 8 land units. Provides anti-missle defence.",
+  "si_name": "r2_pelican_b",
+  "description": "!LOC:Advanced Air Transport - Mov:60. Transport for up to 8 land units. Provides advanced anti-missile defence.",
   "max_health": 1200,
-  "build_metal_cost": 6000,
+  "build_metal_cost": 3000,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -99,7 +99,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/air/support_platform/support_platform_tool_interception.json",
+      "spec_id": "/pa/units/air/boss_pelican/boss_pelican_tool_beam.json",
       "record_index": 1,
       "fire_event": "fired0",
       "aim_bone": "bone_root",
@@ -110,7 +110,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_leftWing",
       "offset": [
         0,
@@ -125,7 +125,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_rightWing",
       "offset": [
         0,
@@ -140,7 +140,7 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/transport/transport_jets.pfx",
+      "filename": "/pa/effects/jets/r2_pelican_jets.pfx",
       "bone": "bone_turret",
       "offset": [
         0,
@@ -207,67 +207,7 @@
         0,
         195
       ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/pink_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        -2.86,
-        -1.9,
-        0.96
-      ],
-      "orientation": [
-        0,
-        0,
-        -202.5
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/pink_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        2.86,
-        -1.9,
-        0.96
-      ],
-      "orientation": [
-        0,
-        0,
-        22.5
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/pink_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        2.13,
-        2.14,
-        2.22
-      ],
-      "orientation": [
-        0,
-        0,
-        -15
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/pink_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        -2.13,
-        2.14,
-        2.22
-      ],
-      "orientation": [
-        0,
-        0,
-        195
-      ]
-    }	
+    }
   ],
   "selection_icon": {
     "diameter": 20.0

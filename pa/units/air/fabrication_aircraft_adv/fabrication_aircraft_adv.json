@@ -2,6 +2,7 @@
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "unit_name": "Advanced Fab Aircraft",
   "display_name": "!LOC:Advanced Fab Aircraft *",
+  "si_name": "r2_fab_air_adv",
   "description": "!LOC:Advanced Fabricator - Builds basic and advanced structures - Rng:45, Mov:30. Consumes 3000 energy and 45 metal when building.",
   "max_health": 360,
   "build_metal_cost": 2500,
@@ -83,7 +84,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv_build_arm.json",
+      "spec_id": "/pa/units/air/r2_fab_air_adv/r2_fab_air_adv_build_arm.json",
       "aim_bone": "bone_turret"
     }
   ],
@@ -134,7 +135,7 @@
     },
     {
       "type": "moving",
-      "filename": "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_adv_jets.pfx",
       "bone": "bone_rightWing",
       "offset": [
         1.386,
@@ -149,7 +150,7 @@
     },
     {
       "type": "moving",
-      "filename": "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_adv_jets.pfx",
       "bone": "bone_leftWing",
       "offset": [
         -1.386,

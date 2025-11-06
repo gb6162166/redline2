@@ -1,9 +1,10 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Wyrm *",
+  "si_name": "r2_wyrm",
   "description": "!LOC:Siege Bomber - Rng:12, Mov:35. Uses very heavy damage, splash bomb. B:~3000*0.2",
   "max_health": 3000,
-  "build_metal_cost": 2750,
+  "build_metal_cost": 2700,
   "unit_types": [
     "UNITTYPE_Custom58",
     "UNITTYPE_Bomber",
@@ -67,7 +68,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/air/bomber_heavy/bomber_heavy_tool_weapon.json",
+      "spec_id": "/pa/units/air/r2_wyrm/r2_wyrm_tool_weapon.json",
       "aim_bone": "bone_root",
       "muzzle_bone": "bone_root"
     }
@@ -91,7 +92,7 @@
   "fx_offsets": [
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_large_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_large_jets.pfx",
       "bone": "bone_body",
       "offset": [
         -1.641,
@@ -106,7 +107,7 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_large_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_large_jets.pfx",
       "bone": "bone_body",
       "offset": [
         -1.641,
@@ -121,7 +122,7 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_small_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_small_jets.pfx",
       "bone": "bone_body",
       "offset": [
         1.516,
@@ -136,7 +137,7 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_small_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_small_jets.pfx",
       "bone": "bone_body",
       "offset": [
         -0.278,
@@ -151,7 +152,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_small_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_small_jets.pfx",
       "bone": "bone_thrusters",
       "offset": [
         3.697,
@@ -166,7 +167,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/units/air/bomber_heavy/bomber_heavy_small_jets.pfx",
+      "filename": "/pa/effects/jets/r2_wyrm_small_jets.pfx",
       "bone": "bone_thrusters",
       "offset": [
         -3.697,

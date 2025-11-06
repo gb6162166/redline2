@@ -1,6 +1,7 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Bumblebee *",
+  "si_name": "r2_bumble",
   "description": "!LOC:Bomber Jet - Rng:10, Mov:75. Uses short range, cluster bombs. B:~300*0.2",
   "max_health": 200,
   "build_metal_cost": 250,
@@ -62,7 +63,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/air/bomber/bomber_tool_weapon.json",
+      "spec_id": "/pa/units/air/r2_bumble/r2_bumble_tool_weapon.json",
       "aim_bone": "bone_root",
       "muzzle_bone": "bone_root"
     }
