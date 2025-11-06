@@ -1,7 +1,8 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Gil-E *",
-  "description": "!LOC:Sniper Bot - Rng:175, Mov:12. Uses long range, direct fire, laser beam. Provides anti-missile defence. L:350*0.25",
+  "si_name": "r2_gile",
+  "description": "!LOC:Sniper Bot - Rng:180, Mov:12. Uses long range, direct fire, laser beam. Provides anti-missile defence. L:350*0.3",
   "max_health": 230,
   "build_metal_cost": 650,
   "attachable": {
@@ -52,7 +53,7 @@
           "layer": "surface_and_air",
           "channel": "sight",
           "shape": "capsule",
-          "radius": 175
+          "radius": 180
         }
       ]
     }
@@ -72,14 +73,14 @@
   "nearby_target_tick_update_interval": 2,
   "tools": [
     {
-      "spec_id": "/pa/units/land/bot_sniper/bot_sniper_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_gile/r2_gile_tool_weapon.json",
       "aim_bone": "bone_turret",
       "record_index": 0,
       "fire_event": "fired0",
       "muzzle_bone": "socket_muzzle01"
     },
     {
-      "spec_id": "/pa/units/land/bot_sniper/bot_sniper_beam_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_gile/r2_gile_beam_tool_weapon.json",
       "aim_bone": "bone_turret",
       "record_index": 1,
       "fire_event": "fired1",
@@ -92,11 +93,11 @@
     },
     "fired0": {
       "audio_cue": "/SE/Weapons/bot/sniper_fire",
-      "effect_spec": "/pa/units/land/bot_sniper/bot_sniper_muzzle_flash.pfx socket_muzzle01"
+      "effect_spec": "/pa/units/land/r2_gile/r2_gile_muzzle_flash.pfx socket_muzzle01"
     },
     "fired1": {
       "audio_cue": "/SE/Weapons/bot/sniper_fire_anti_tac",
-      "effect_spec": "/pa/units/land/bot_sniper/bot_sniper_beam_flash.pfx socket_muzzle02"
+      "effect_spec": "/pa/units/land/r2_gile/r2_gile_beam_flash.pfx socket_muzzle02"
     },
     "died": {
       "audio_cue": "/SE/Death/Bot",

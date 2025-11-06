@@ -164,54 +164,6 @@
       "cue": "/SE/Selection/veh/tank_hover"
     }
   },
-  "headlights": [
-    {
-      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
-      "offset": [
-        1.8,
-        -2,
-        1.0
-      ],
-      "orientation": [
-        0.0,
-        65.0,
-        0.0
-      ],
-      "near_width": 2.0,
-      "near_height": 2.0,
-      "near_distance": 1.2,
-      "far_distance": 20.0,
-      "color": [
-        0.9,
-        0.92,
-        1.0
-      ],
-      "intensity": 1.4
-    },
-    {
-      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
-      "offset": [
-        -1.8,
-        -2,
-        1.0
-      ],
-      "orientation": [
-        0.0,
-        65.0,
-        0.0
-      ],
-      "near_width": 2.0,
-      "near_height": 2.0,
-      "near_distance": 1.2,
-      "far_distance": 20.0,
-      "color": [
-        0.9,
-        0.92,
-        1.0
-      ],
-      "intensity": 1.4
-    }
-  ],
   "selection_icon": {
     "diameter": 12.0
   },

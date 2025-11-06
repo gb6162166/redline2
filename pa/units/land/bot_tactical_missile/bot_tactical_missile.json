@@ -1,6 +1,7 @@
 {
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "display_name": "Bluehawk *",
+  "si_name": "r2_bluehawk",  
   "description": "!LOC:Tactical Missile - Rng:180, Mov:12. Uses long range, heavy damage, tactical missiles. Provides anti-drop defence. M:700*0.2",
   "build_metal_cost": 600,
   "max_health": 300,
@@ -70,7 +71,7 @@
   "nearby_target_tick_update_interval": 3,
   "tools": [
     {
-      "spec_id": "/pa/units/land/bot_tactical_missile/bot_tactical_missile_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_bluehawk/r2_bluehawk_tool_weapon.json",
       "aim_bone": "socket_rightMuzzle",
       "muzzle_bone": [
         "socket_rightMuzzle",
@@ -78,7 +79,7 @@
       ]
     },
     {
-      "spec_id": "/pa/units/land/bot_tactical_missile/bot_tactical_missile_tool_antidrop.json",
+      "spec_id": "/pa/units/land/r2_bluehawk/r2_bluehawk_tool_antidrop.json",
       "aim_bone": "socket_rightMuzzle",
       "muzzle_bone": [
         "socket_rightMuzzle",
