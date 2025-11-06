@@ -143,7 +143,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         1.89,
@@ -158,7 +158,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_02.pfx",
+      "filename": "/pa/effects/hover/pink_hover.pfx",
       "bone": "bone_root",
       "offset": [
         4.1,
@@ -173,7 +173,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_02.pfx",
+      "filename": "/pa/effects/hover/pink_hover.pfx",
       "bone": "bone_root",
       "offset": [
         3.96,
@@ -188,7 +188,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         2.34,
@@ -203,7 +203,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -1.89,
@@ -218,7 +218,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_02.pfx",
+      "filename": "/pa/effects/hover/pink_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -4.1,
@@ -233,7 +233,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_02.pfx",
+      "filename": "/pa/effects/hover/pink_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -3.96,
@@ -248,7 +248,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/hover_idle_01.pfx",
+      "filename": "/pa/effects/hover/blue_hover.pfx",
       "bone": "bone_root",
       "offset": [
         -2.34,
