@@ -1,9 +1,10 @@
 {
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "display_name": "Slammer *",
-  "description": "!LOC:Advanced Laser Bot - Rng:110/160, Mov:15. Uses heavy damage lasers, and upgraded torpedoes. L:80*3.0, T:150*0.5",
-  "max_health": 280,
-  "build_metal_cost": 650,
+  "si_name": "r2_slammer",
+  "description": "!LOC:Advanced Laser Bot - Rng:110/160, Mov:15. Uses heavy damage lasers, and upgraded torpedoes. L:90*3.0, T:150*0.5",
+  "max_health": 300,
+  "build_metal_cost": 600,
   "attachable": {
     "offsets": {
       "root": [
@@ -75,7 +76,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/land/assault_bot_adv/assault_bot_adv_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_slammer/r2_slammer_tool_weapon.json",
       "aim_bone": "bone_turret",
       "muzzle_bone": [
         "socket_rightMuzzle",
@@ -98,7 +99,7 @@
     },
     "fired": {
       "audio_cue": "/SE/Weapons/bot/assault_adv_fire",
-      "effect_spec": "/pa/units/land/assault_bot_adv/assault_bot_adv_muzzle_flash.pfx socket_rightMuzzle /pa/units/land/assault_bot_adv/assault_bot_adv_muzzle_flash.pfx socket_leftMuzzle"
+      "effect_spec": "/pa/units/land/r2_slammer/r2_slammer_muzzle_flash.pfx socket_rightMuzzle /pa/units/land/r2_slammer/r2_slammer_muzzle_flash.pfx socket_leftMuzzle"
     },
     "died": {
       "audio_cue": "/SE/Death/Bot",

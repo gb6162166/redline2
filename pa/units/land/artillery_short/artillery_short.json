@@ -1,9 +1,10 @@
 {
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "display_name": "Pelter *",
-  "description": "!LOC:Artillery Tower - Rng:240. Uses long range, advanced artillery. A:300*0.15",
+  "display_name": "Pelter $",
+  "si_name": "r2_pelter",
+  "description": "!LOC:Artillery Tower - Rng:240. Uses long range artillery. A:300*0.15",
   "max_health": 1000,
-  "build_metal_cost": 500,
+  "build_metal_cost": 100,
   "atrophy_rate": 25,
   "atrophy_cool_down": 15.0,
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
@@ -120,7 +121,7 @@
   "nearby_target_tick_update_interval": 15,
   "tools": [
     {
-      "spec_id": "/pa/units/land/artillery_short/artillery_short_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_pelter/r2_pelter_tool_weapon.json",
       "aim_bone": "socket_aim",
       "muzzle_bone": "socket_muzzle"
     }
@@ -131,7 +132,7 @@
     },
     "fired": {
       "audio_cue": "/SE/Weapons/structure/artillery_short_fire",
-      "effect_spec": "/pa/units/land/artillery_short/artillery_short_muzzle_flash.pfx socket_muzzle /pa/effects/specs/artillery_muzzle_ground.pfx"
+      "effect_spec": "/pa/units/land/r2_pelter/r2_pelter_muzzle_flash.pfx socket_muzzle /pa/effects/specs/artillery_muzzle_ground.pfx"
     },
     "died": {
       "audio_cue": "/SE/Death/structure_small",
