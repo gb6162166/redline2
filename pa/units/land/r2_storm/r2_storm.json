@@ -64,7 +64,7 @@
   "nearby_target_tick_update_interval": 15,
   "tools": [
     {
-      "spec_id": "/pa/units/land/tank_flak/tank_flak_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_storm/r2_storm_tool_weapon.json",
       "aim_bone": "socket_aim",
       "projectiles_per_fire": 4,
       "muzzle_bone": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "spec_id": "/pa/units/land/tank_flak/tank_flak_beam_tool_weapon.json",
+      "spec_id": "/pa/units/land/r2_storm/r2_storm_beam_tool_weapon.json",
       "aim_bone": "bone_turret",
       "record_index": 1,
       "fire_event": "fired1",

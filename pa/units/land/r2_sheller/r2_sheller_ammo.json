@@ -1,0 +1,24 @@
+{
+  "base_spec": "/pa/ammo/base_artillery/base_artillery.json",
+  "damage": 500,
+  "splash_damage": 200,
+  "splash_radius": 20,
+  "full_damage_splash_radius": 10,
+  "splash_damages_allies": false,
+  "initial_velocity": 200.0,
+  "max_velocity": 200.0,
+  "lifetime": 10,
+  "fx_trail": {
+    "filename": "/pa/units/land/r2_sheller/r2_sheller_ammo_trail.pfx"
+  },
+  "model": {
+    "filename": "/pa/units/air/shell/shell.papa"
+  },
+  "audio_loop": "/SE/Movement/missile/tactical_missile_fly_loop",
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/shell_tank",
+      "effect_spec": "/pa/units/land/r2_sheller/r2_sheller_ammo_hit.pfx"
+    }
+  }
+}
