@@ -3,7 +3,7 @@
   "display_name": "Horsefly *",
   "si_name": "r2_horsefly",
   "description": "!LOC:Strafer Aircraft - Rng:100, Mov:60. Uses basic quad, air-to-ground missiles. M:4x30*3.0",
-  "max_health": 600,
+  "max_health": 900,
   "build_metal_cost": 600,
   "unit_types": [
     "UNITTYPE_Custom58",

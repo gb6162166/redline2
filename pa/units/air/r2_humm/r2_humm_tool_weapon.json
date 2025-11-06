@@ -1,0 +1,12 @@
+{
+  "base_spec": "/pa/tools/base_fighter_turret/base_fighter_turret.json",
+  "ammo_id": "/pa/units/air/r2_humm/r2_humm_ammo.json",
+  "rate_of_fire": 0.5,
+  "max_range": 120,
+  "firing_arc_yaw": 45,
+  "firing_arc_pitch": 45,
+  "auto_attack": true,
+  "target_layers": [
+    "WL_Air"
+  ]
+}

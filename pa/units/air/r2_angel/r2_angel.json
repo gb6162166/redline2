@@ -2,7 +2,7 @@
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Angel *",
   "si_name": "r2_angel",
-  "description": "!LOC:Support Platform - Rng:120, Mov:40. Repairs units and reclaims metal. Provides anti-missile defence. R:120*1.0",
+  "description": "!LOC:Support Platform - Rng:120, Mov:40. Repairs units and reclaims metal. Provides superb anti-missile defence. Consumes 400 energy and 120 metal when building.",
   "max_health": 1200,
   "build_metal_cost": 3600,
   "attachable": {
@@ -66,7 +66,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/air/r2_angel/r2_angel_tool_interception.json",
+      "spec_id": "/pa/units/air/r2_angel/r2_angel_tool_beam.json",
       "record_index": 1,
       "fire_event": "fired0",
       "aim_bone": "bone_root",
