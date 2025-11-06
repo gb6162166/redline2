@@ -2,7 +2,8 @@
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "unit_name": "Advanced Fabrication Vehicle",
   "display_name": "!LOC:Advanced Fab Vehicle *",
-  "description": "!LOC:Advanced Fabricator - Rng:45, Mov:12. Builds basic and advanced structures. Consumes 2400 energy and 60 metal when building.",
+  "si_name": "r2_fab_veh_adv",      
+  "description": "!LOC:Advanced Fabricator - Rng:45, Mov:12. Builds basic and advanced structures. Consumes 2400 energy and 60 metal when fabricating.",
   "max_health": 480,
   "build_metal_cost": 2000,
   "attachable": {
@@ -86,7 +87,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv_build_arm.json",
+      "spec_id": "/pa/units/land/r2_fab_veh_adv/r2_fab_veh_adv_build_arm.json",
       "aim_bone": "bone_root"
     }
   ],

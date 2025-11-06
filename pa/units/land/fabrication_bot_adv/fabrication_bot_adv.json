@@ -2,6 +2,7 @@
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "unit_name": "Advanced Fabrication Bot",
   "display_name": "!LOC:Advanced Fab Bot *",
+  "si_name": "r2_fab_bot_adv",    
   "description": "!LOC:Advanced Fabricator - Rng:45, Mov:15. Builds basic and advanced structures. Consumes 1800 energy and 45 metal when building.",
   "max_health": 360,
   "spawn_layers": "WL_LandHorizontal",
@@ -89,7 +90,7 @@
   },
   "tools": [
     {
-      "spec_id": "/pa/units/land/fabrication_bot_adv/fabrication_bot_adv_build_arm.json",
+      "spec_id": "/pa/units/land/r2_fab_bot_adv/r2_fab_bot_adv_build_arm.json",
       "aim_bone": "bone_root"
     }
   ],
