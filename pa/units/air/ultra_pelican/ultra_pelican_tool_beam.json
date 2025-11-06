@@ -1,0 +1,36 @@
+{
+  "base_spec": "/pa/tools/base_shell_turret/base_shell_turret.json",
+  "ammo_id": "/pa/units/air/r2_angel/r2_angel_beam_ammo.json",
+  "rate_of_fire": 2.0,
+  "idle_aim_delay": 0.0,
+  "max_range": 160,
+  "yaw_rate": 3600,
+  "pitch_rate": 3600,
+  "yaw_range": 360,
+  "pitch_range": 0,
+  "firing_arc_yaw": 0,
+  "firing_arc_pitch": 180,
+  "spread_fire": true,
+  "auto_attack": true,
+  "auto_task_type": "anti_entity",
+  "manual_fire": true,
+  "anti_entity_targets_units": false,
+  "anti_entity_targets": [
+    "/pa/units/air/r2_humm/r2_humm_ammo.json",
+    "/pa/units/air/r2_phoenix/r2_phoenix_ammo.json",
+	"/pa/units/air/ultra_phoenix/ultra_phoenix_ammo.json",
+    "/pa/ammo/ground_aa/basic_aa_ammo.json",
+	"/pa/ammo/ground_aa/upgraded_aa_ammo.json",
+	"/pa/ammo/ground_aa/advanced_aa_ammo.json",
+	"/pa/ammo/ground_aa/superb_aa_ammo.json",
+    "/pa/units/sea/missile_ship/missile_ship_aa_ammo.json",	
+    "/pa/units/land/l_bot_aa/l_bot_aa_ammo.json",
+    "/pa/units/land/l_air_defense_adv/l_air_defense_adv_ammo.json",
+    "/pa/units/air/l_fighter_adv/l_fighter_adv_rocket_ammo.json",
+    "/pa/units/land/l_hover_tank_adv/l_hover_tank_adv_ammo.json"
+  ],
+  "target_layers": [
+    "WL_Air",
+    "WL_Orbital"
+  ]
+}

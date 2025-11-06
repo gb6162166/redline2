@@ -1,6 +1,7 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Pelican *",
+  "si_name": "r2_pelican",  
   "description": "!LOC:Air Transport - Mov:60. Transport for one land unit.",
   "max_health": 300,
   "build_metal_cost": 350,
@@ -100,7 +101,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_leftWing",
       "offset": [
         0,
@@ -115,7 +116,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_rightWing",
       "offset": [
         0,
@@ -130,74 +131,14 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/transport/transport_jets.pfx",
+      "filename": "/pa/effects/jets/r2_pelican_jets.pfx",
       "bone": "bone_turret",
       "offset": [
         0,
         1.418,
         0.5
       ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/orange_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        -2.86,
-        -1.9,
-        0.96
-      ],
-      "orientation": [
-        0,
-        0,
-        -202.5
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/orange_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        2.86,
-        -1.9,
-        0.96
-      ],
-      "orientation": [
-        0,
-        0,
-        22.5
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/orange_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        2.13,
-        2.14,
-        2.22
-      ],
-      "orientation": [
-        0,
-        0,
-        -15
-      ]
-    },
-    {
-      "type": "idle",
-      "filename": "/pa/effects/hover/orange_hover.pfx",
-      "bone": "bone_root",
-      "offset": [
-        -2.13,
-        2.14,
-        2.22
-      ],
-      "orientation": [
-        0,
-        0,
-        195
-      ]
-    }	
+    }
   ],
   "selection_icon": {
     "diameter": 20.0

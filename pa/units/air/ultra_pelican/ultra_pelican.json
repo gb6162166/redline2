@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Ultra Pelican *",
-  "si_name": "pelican",
-  "description": "!LOC:Upgraded Air Transport - Mov:60. Transport for up to 4 land units.",
-  "max_health": 300,
-  "build_metal_cost": 2000,
+  "si_name": "r2_pelican_u",
+  "description": "!LOC:Upgraded Air Transport - Mov:60. Transport for up to 4 land units. Provides upgraded anti-missile defence.",
+  "max_health": 600,
+  "build_metal_cost": 1500,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -97,11 +97,20 @@
     },
     "animtree": "/pa/anim/anim_trees/transport_anim_tree.json"
   },
+  "tools": [
+    {
+      "spec_id": "/pa/units/air/ultra_pelican/ultra_pelican_tool_beam.json",
+      "record_index": 1,
+      "fire_event": "fired0",
+      "aim_bone": "bone_root",
+      "muzzle_bone": "socket_muzzle02"
+    }
+  ],    
   "TEMP_texelinfo": 10.4837,
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_leftWing",
       "offset": [
         0,
@@ -116,7 +125,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/units/air/fabrication_aircraft/fabrication_aircraft_jets.pfx",
+      "filename": "/pa/effects/jets/r2_fab_air_jets.pfx",
       "bone": "bone_rightWing",
       "offset": [
         0,
@@ -131,7 +140,7 @@
     },
     {
       "type": "moving_forward",
-      "filename": "/pa/units/air/transport/transport_jets.pfx",
+      "filename": "/pa/effects/jets/r2_pelican_jets.pfx",
       "bone": "bone_turret",
       "offset": [
         0,

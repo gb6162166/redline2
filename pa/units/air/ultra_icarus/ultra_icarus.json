@@ -1,10 +1,10 @@
 {
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "display_name": "Ultra Icarus *",
-  "si_name": "icarus",
-  "description": "!LOC:Upgraded Solar Drone - Rng:100, Mov:50. Uses upgraded lightning attack. Produces 150 energy when idle. L:100*1.0",
-  "max_health": 250,
-  "build_metal_cost": 790,
+  "si_name": "r2_icarus_u",
+  "description": "!LOC:Upgraded Solar Drone - Rng:100, Mov:50. Uses upgraded lightning attack. Produces 150 energy when idle. L:140*1.2",
+  "max_health": 160,
+  "build_metal_cost": 600,
   "usable": true,
   "attachable": {
     "offsets": {
@@ -112,7 +112,7 @@
   "fx_offsets": [
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_idle.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_idle.pfx",
       "bone": "bone_root",
       "offset": [
         0,
@@ -122,7 +122,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_jets.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_jets.pfx",
       "bone": "bone_rightThruster",
       "offset": [
         0.578,
@@ -137,7 +137,7 @@
     },
     {
       "type": "idle",
-      "filename": "/pa/effects/specs/solar_drone_jets.pfx",
+      "filename": "/pa/effects/jets/r2_icarus_jets.pfx",
       "bone": "bone_leftThruster",
       "offset": [
         -0.578,
